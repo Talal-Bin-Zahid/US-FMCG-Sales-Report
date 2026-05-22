@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,City,Channel,Product_Category,Unit_Price,Units_Sold,Discount_%,Sales_Rep,Revenue_USD
+849,2025-01-01,Northeast,Boston,Wholesale,Dairy,7,11,20,David Wilson,61.6
+678,2025-01-01,South,Los Angeles,Retail,Snacks,12,50,10,David Wilson,540.0
+649,2025-01-01,West,Chicago,Retail,Beverages,6,17,0,Sarah Davis,102.0
+756,2025-01-01,West,New York,Retail,Dairy,13,15,15,David Wilson,165.75
+992,2025-01-01,South,Atlanta,Retail,Snacks,7,13,5,John Miller,86.45
+447,2025-01-01,West,Dallas,Retail,Household,11,4,10,John Miller,39.6
+207,2025-01-02,West,Los Angeles,Retail,Beverages,7,6,10,David Wilson,37.8
+264,2025-01-02,South,Atlanta,Wholesale,Dairy,12,46,10,David Wilson,496.8
+64,2025-01-02,Midwest,Phoenix,Retail,Household,14,42,5,Michael Brown,558.6
+896,2025-01-03,Midwest,Dallas,Retail,Snacks,10,28,0,Sarah Davis,280.0
+949,2025-01-04,West,Chicago,Retail,Dairy,11,30,0,John Miller,330.0
+497,2025-01-04,West,San Francisco,Retail,Household,3,20,15,Sarah Davis,51.0
+326,2025-01-04,South,Dallas,Wholesale,Snacks,12,5,5,Michael Brown,57.0
+969,2025-01-04,Northeast,Phoenix,Retail,Dairy,8,49,10,John Miller,352.8
+614,2025-01-05,West,Chicago,Retail,Dairy,8,14,10,David Wilson,100.8
+416,2025-01-05,Midwest,San Francisco,Retail,Snacks,10,31,10,Michael Brown,279.0
+721,2025-01-05,South,San Francisco,Wholesale,Dairy,3,15,10,Sarah Davis,40.5
+129,2025-01-05,Midwest,Phoenix,Wholesale,Household,12,22,5,Michael Brown,250.8
+843,2025-01-05,Midwest,Phoenix,Retail,Household,10,38,15,John Miller,323.0
+965,2025-01-06,West,Phoenix,Retail,Household,13,23,0,Michael Brown,299.0
+742,2025-01-06,Northeast,Seattle,Retail,Dairy,7,7,20,David Wilson,39.2
+335,2025-01-06,Northeast,Chicago,Wholesale,Household,5,27,15,Michael Brown,114.75
+935,2025-01-06,West,Dallas,Wholesale,Household,5,28,5,Sarah Davis,133.0
+895,2025-01-07,Midwest,Seattle,Wholesale,Dairy,3,16,15,Michael Brown,40.8
+606,2025-01-07,West,San Francisco,Retail,Beverages,6,40,0,Michael Brown,240.0
+829,2025-01-08,West,Houston,Retail,Snacks,2,11,0,David Wilson,22.0
+688,2025-01-08,Northeast,Phoenix,Retail,Dairy,12,57,0,Michael Brown,684.0
+876,2025-01-08,Northeast,Phoenix,Wholesale,Snacks,10,6,5,David Wilson,57.0
+98,2025-01-09,Midwest,Atlanta,Retail,Beverages,5,11,0,Sarah Davis,55.0
+270,2025-01-09,South,Dallas,Retail,Dairy,7,55,5,Sarah Davis,365.75
+602,2025-01-09,West,Boston,Retail,Snacks,10,3,0,John Miller,30.0
+715,2025-01-10,South,Dallas,Retail,Dairy,3,10,20,David Wilson,24.0
+485,2025-01-10,Northeast,Atlanta,Retail,Household,4,40,10,Michael Brown,144.0
+852,2025-01-12,Midwest,Dallas,Retail,Beverages,3,25,0,Emily Johnson,75.0
+682,2025-01-12,South,Seattle,Retail,Dairy,10,26,15,Emily Johnson,221.0
+519,2025-01-12,Midwest,Houston,Retail,Household,11,57,20,Emily Johnson,501.6
+917,2025-01-13,West,Atlanta,Retail,Snacks,9,15,10,Sarah Davis,121.5
+379,2025-01-13,Northeast,Chicago,Wholesale,Dairy,12,50,5,Sarah Davis,570.0
+152,2025-01-13,Midwest,Chicago,Wholesale,Household,6,36,5,John Miller,205.2
+555,2025-01-13,Midwest,Houston,Retail,Beverages,12,19,0,Emily Johnson,228.0
+51,2025-01-14,Northeast,Dallas,Wholesale,Beverages,5,33,0,Emily Johnson,165.0
+676,2025-01-14,West,Houston,Retail,Dairy,10,26,20,David Wilson,208.0
+886,2025-01-14,Northeast,Los Angeles,Wholesale,Household,2,23,10,Sarah Davis,41.4
+892,2025-01-14,West,Seattle,Retail,Snacks,9,40,5,Emily Johnson,342.0
+135,2025-01-15,South,San Francisco,Retail,Dairy,13,19,20,Michael Brown,197.6
+93,2025-01-15,South,Boston,Wholesale,Snacks,9,31,5,David Wilson,265.05
+904,2025-01-15,South,Chicago,Wholesale,Dairy,12,34,5,John Miller,387.6
+498,2025-01-16,West,Houston,Retail,Snacks,13,28,0,Sarah Davis,364.0
+330,2025-01-17,West,Phoenix,Wholesale,Household,14,15,5,Emily Johnson,199.5
+353,2025-01-18,West,Phoenix,Retail,Dairy,5,3,0,Michael Brown,15.0
+567,2025-01-19,South,Los Angeles,Wholesale,Snacks,3,30,5,Emily Johnson,85.5
+637,2025-01-19,Northeast,Houston,Retail,Snacks,5,34,0,John Miller,170.0
+384,2025-01-20,West,Atlanta,Wholesale,Snacks,12,14,20,Emily Johnson,134.4
+672,2025-01-20,Northeast,Chicago,Retail,Beverages,13,40,10,Emily Johnson,468.0
+988,2025-01-20,South,Dallas,Wholesale,Household,8,41,10,Emily Johnson,295.2
+45,2025-01-21,Northeast,Phoenix,Retail,Beverages,4,29,10,Sarah Davis,104.4
+7,2025-01-21,South,Chicago,Retail,Household,14,45,10,David Wilson,567.0
+847,2025-01-22,West,San Francisco,Retail,Snacks,14,23,0,John Miller,322.0
+308,2025-01-22,West,Phoenix,Wholesale,Beverages,2,37,5,Michael Brown,70.3
+26,2025-01-22,West,Houston,Wholesale,Dairy,3,35,10,Sarah Davis,94.5
+748,2025-01-23,West,Chicago,Retail,Snacks,13,5,0,John Miller,65.0
+483,2025-01-23,Midwest,Seattle,Retail,Dairy,10,54,15,Emily Johnson,459.0
+581,2025-01-25,Midwest,Houston,Retail,Household,2,37,20,John Miller,59.2
+919,2025-01-25,Midwest,Chicago,Retail,Beverages,14,41,15,David Wilson,487.9
+915,2025-01-25,South,Atlanta,Retail,Dairy,10,48,10,Michael Brown,432.0
+978,2025-01-26,South,Dallas,Retail,Snacks,3,8,10,Sarah Davis,21.6
+873,2025-01-26,Midwest,San Francisco,Wholesale,Beverages,13,56,15,Emily Johnson,618.8
+376,2025-01-26,South,Atlanta,Wholesale,Dairy,4,48,25,Sarah Davis,144.0
+317,2025-01-27,Northeast,Houston,Wholesale,Beverages,14,33,5,David Wilson,438.9
+110,2025-01-28,Northeast,San Francisco,Retail,Beverages,11,21,15,Emily Johnson,196.35
+165,2025-01-28,South,Seattle,Retail,Household,3,58,5,John Miller,165.3
+907,2025-01-28,Northeast,Dallas,Wholesale,Snacks,11,23,10,David Wilson,227.7
+697,2025-01-28,South,Houston,Wholesale,Beverages,5,31,5,Michael Brown,147.25
+887,2025-01-28,Midwest,Chicago,Wholesale,Dairy,11,22,20,Emily Johnson,193.6
+150,2025-01-29,Midwest,Los Angeles,Retail,Dairy,7,44,0,David Wilson,308.0
+615,2025-01-29,South,Boston,Retail,Household,11,24,25,Michael Brown,198.0
+802,2025-01-30,South,Houston,Wholesale,Snacks,10,42,10,John Miller,378.0
+960,2025-01-31,South,Dallas,Retail,Dairy,5,15,25,Sarah Davis,56.25
+115,2025-02-02,West,San Francisco,Wholesale,Beverages,5,25,5,Sarah Davis,118.75
+508,2025-02-02,South,Seattle,Wholesale,Snacks,11,37,5,John Miller,386.65
+306,2025-02-02,Midwest,Atlanta,Retail,Household,14,58,10,Emily Johnson,730.8
+815,2025-02-03,Northeast,San Francisco,Retail,Snacks,3,28,15,Michael Brown,71.4
+855,2025-02-03,Northeast,Chicago,Retail,Dairy,8,51,15,David Wilson,346.8
+762,2025-02-03,Midwest,Phoenix,Wholesale,Household,11,14,0,John Miller,154.0
+928,2025-02-03,South,Dallas,Retail,Household,8,16,15,Sarah Davis,108.8
+124,2025-02-04,South,Chicago,Wholesale,Beverages,14,35,25,John Miller,367.5
+524,2025-02-04,West,Chicago,Retail,Snacks,11,10,15,Emily Johnson,93.5
+59,2025-02-04,West,Phoenix,Retail,Beverages,12,38,5,Emily Johnson,433.2
+327,2025-02-04,West,San Francisco,Wholesale,Household,14,24,5,Emily Johnson,319.2
+709,2025-02-04,Midwest,Atlanta,Wholesale,Household,14,57,10,Sarah Davis,718.2
+963,2025-02-05,West,Atlanta,Wholesale,Dairy,7,28,15,Sarah Davis,166.6
+382,2025-02-05,Northeast,Atlanta,Wholesale,Household,9,18,10,David Wilson,145.8
+151,2025-02-05,Northeast,Los Angeles,Retail,Household,11,36,15,John Miller,336.6
+546,2025-02-05,Midwest,Dallas,Retail,Beverages,12,35,5,David Wilson,399.0
+338,2025-02-06,Midwest,Dallas,Retail,Dairy,7,50,0,Emily Johnson,350.0
+552,2025-02-06,South,New York,Retail,Snacks,8,48,5,John Miller,364.8
+268,2025-02-06,South,Atlanta,Wholesale,Snacks,10,27,5,Sarah Davis,256.5
+311,2025-02-07,Northeast,Houston,Wholesale,Dairy,4,11,10,Sarah Davis,39.6
+996,2025-02-07,Northeast,Atlanta,Wholesale,Beverages,3,56,10,David Wilson,151.2
+250,2025-02-08,Midwest,Atlanta,Wholesale,Dairy,8,38,5,Emily Johnson,288.8
+909,2025-02-08,Northeast,Chicago,Wholesale,Dairy,5,7,5,Sarah Davis,33.25
+477,2025-02-08,West,Seattle,Retail,Dairy,7,25,0,John Miller,175.0
+373,2025-02-08,Northeast,Houston,Retail,Beverages,11,48,5,Emily Johnson,501.6
+638,2025-02-08,Midwest,New York,Wholesale,Dairy,4,53,5,John Miller,201.4
+766,2025-02-08,Northeast,Dallas,Retail,Snacks,9,55,20,Sarah Davis,396.0
+586,2025-02-08,South,Atlanta,Retail,Snacks,3,53,20,David Wilson,127.2
+961,2025-02-09,Midwest,Boston,Wholesale,Dairy,8,48,10,Michael Brown,345.6
+91,2025-02-10,Northeast,New York,Wholesale,Household,6,44,10,Michael Brown,237.6
+109,2025-02-10,South,New York,Wholesale,Beverages,6,45,15,Emily Johnson,229.5
+700,2025-02-10,Midwest,Los Angeles,Wholesale,Snacks,5,41,20,John Miller,164.0
+137,2025-02-11,West,Chicago,Retail,Beverages,5,21,5,Emily Johnson,99.75
+589,2025-02-11,Northeast,Dallas,Wholesale,Snacks,11,39,0,Sarah Davis,429.0
+933,2025-02-11,Midwest,New York,Retail,Dairy,14,36,20,Emily Johnson,403.2
+821,2025-02-12,Northeast,Atlanta,Wholesale,Beverages,6,25,0,Emily Johnson,150.0
+516,2025-02-12,Northeast,Seattle,Retail,Household,13,8,0,Sarah Davis,104.0
+167,2025-02-13,Northeast,Dallas,Retail,Beverages,9,33,10,John Miller,267.3
+657,2025-02-13,West,Boston,Wholesale,Household,9,18,0,David Wilson,162.0
+517,2025-02-13,Northeast,Los Angeles,Retail,Household,5,21,0,Michael Brown,105.0
+71,2025-02-13,Northeast,New York,Retail,Snacks,8,43,10,Michael Brown,309.6
+161,2025-02-14,West,Los Angeles,Retail,Snacks,10,12,10,Emily Johnson,108.0
+708,2025-02-15,West,Chicago,Retail,Beverages,8,18,0,John Miller,144.0
+854,2025-02-15,West,Houston,Wholesale,Beverages,4,15,5,Sarah Davis,57.0
+334,2025-02-15,Northeast,Los Angeles,Retail,Snacks,13,18,5,Michael Brown,222.3
+862,2025-02-16,Northeast,Chicago,Wholesale,Dairy,2,54,0,John Miller,108.0
+471,2025-02-16,Midwest,Phoenix,Wholesale,Dairy,13,51,10,John Miller,596.7
+422,2025-02-16,West,Chicago,Retail,Beverages,12,41,0,Sarah Davis,492.0
+991,2025-02-16,Northeast,Chicago,Retail,Beverages,8,32,5,John Miller,243.2
+673,2025-02-16,West,Boston,Retail,Dairy,11,12,5,Sarah Davis,125.4
+453,2025-02-17,Midwest,Phoenix,Retail,Household,7,45,5,Emily Johnson,299.25
+870,2025-02-17,South,Houston,Retail,Dairy,10,57,10,Emily Johnson,513.0
+116,2025-02-17,South,Phoenix,Retail,Household,13,7,25,David Wilson,68.25
+329,2025-02-18,South,Atlanta,Retail,Snacks,14,52,5,Sarah Davis,691.6
+30,2025-02-18,Northeast,New York,Retail,Household,14,12,10,Sarah Davis,151.2
+62,2025-02-19,South,Atlanta,Wholesale,Beverages,11,7,10,Sarah Davis,69.3
+395,2025-02-20,Northeast,Houston,Retail,Snacks,6,26,0,Emily Johnson,156.0
+805,2025-02-20,South,Los Angeles,Wholesale,Beverages,12,48,5,David Wilson,547.2
+841,2025-02-20,Midwest,San Francisco,Wholesale,Dairy,11,15,20,Michael Brown,132.0
+314,2025-02-20,Northeast,San Francisco,Wholesale,Dairy,13,59,5,Emily Johnson,728.65
+37,2025-02-20,South,San Francisco,Wholesale,Household,14,21,25,David Wilson,220.5
+757,2025-02-20,Midwest,Seattle,Retail,Beverages,12,9,10,John Miller,97.2
+198,2025-02-21,West,Seattle,Retail,Snacks,11,17,0,David Wilson,187.0
+143,2025-02-21,Northeast,Atlanta,Wholesale,Beverages,13,19,15,Michael Brown,209.95
+576,2025-02-21,Northeast,Seattle,Retail,Beverages,12,37,0,Emily Johnson,444.0
+749,2025-02-22,West,Seattle,Wholesale,Beverages,8,32,5,Emily Johnson,243.2
+413,2025-02-22,Northeast,Los Angeles,Retail,Dairy,12,11,20,David Wilson,105.6
+216,2025-02-22,South,New York,Retail,Beverages,2,46,5,Emily Johnson,87.4
+582,2025-02-22,Midwest,Los Angeles,Retail,Dairy,3,16,20,Michael Brown,38.4
+817,2025-02-22,Midwest,Boston,Retail,Household,12,14,5,Sarah Davis,159.6
+86,2025-02-22,West,Atlanta,Retail,Household,3,5,15,Sarah Davis,12.75
+55,2025-02-22,Northeast,San Francisco,Retail,Beverages,3,50,0,David Wilson,150.0
+410,2025-02-23,Northeast,Phoenix,Retail,Dairy,2,27,20,Emily Johnson,43.2
+210,2025-02-23,South,Los Angeles,Wholesale,Dairy,5,55,5,John Miller,261.25
+774,2025-02-23,South,Seattle,Wholesale,Beverages,4,40,15,David Wilson,136.0
+679,2025-02-23,South,Boston,Retail,Dairy,7,10,10,Emily Johnson,63.0
+356,2025-02-23,South,Atlanta,Retail,Snacks,8,31,10,Michael Brown,223.2
+65,2025-02-23,Northeast,Phoenix,Wholesale,Dairy,13,18,10,David Wilson,210.6
+278,2025-02-23,Northeast,San Francisco,Wholesale,Beverages,10,11,5,Sarah Davis,104.5
+39,2025-02-24,South,Phoenix,Wholesale,Snacks,7,17,5,John Miller,113.05
+884,2025-02-25,South,Chicago,Retail,Dairy,4,8,15,David Wilson,27.2
+866,2025-02-25,South,Seattle,Retail,Dairy,14,28,5,David Wilson,372.4
+585,2025-02-26,South,Los Angeles,Retail,Household,7,47,10,Sarah Davis,296.1
+645,2025-02-27,Midwest,Dallas,Retail,Snacks,4,28,5,Sarah Davis,106.4
+357,2025-02-27,West,Houston,Retail,Household,4,17,10,John Miller,61.2
+403,2025-02-27,West,Seattle,Retail,Dairy,7,7,15,John Miller,41.65
+656,2025-02-27,West,San Francisco,Retail,Snacks,7,9,10,Michael Brown,56.7
+445,2025-02-27,South,New York,Retail,Dairy,7,27,15,Michael Brown,160.65
+437,2025-02-27,West,New York,Wholesale,Beverages,14,13,10,Michael Brown,163.8
+31,2025-02-28,Northeast,Phoenix,Retail,Dairy,4,22,0,Emily Johnson,88.0
+414,2025-03-01,South,Phoenix,Wholesale,Household,13,19,15,Emily Johnson,209.95
+263,2025-03-01,Northeast,Phoenix,Retail,Household,14,43,0,David Wilson,602.0
+871,2025-03-02,Midwest,New York,Retail,Beverages,14,14,5,Sarah Davis,186.2
+839,2025-03-02,Northeast,Chicago,Wholesale,Beverages,3,30,0,Michael Brown,90.0
+162,2025-03-03,South,Atlanta,Wholesale,Snacks,3,33,15,Michael Brown,84.15
+562,2025-03-03,West,Dallas,Retail,Dairy,7,21,5,Sarah Davis,139.65
+974,2025-03-03,West,Chicago,Retail,Household,4,11,0,Emily Johnson,44.0
+117,2025-03-03,Midwest,Seattle,Wholesale,Beverages,4,56,5,Michael Brown,212.8
+102,2025-03-04,Northeast,Phoenix,Retail,Household,13,15,5,David Wilson,185.25
+398,2025-03-04,Northeast,San Francisco,Retail,Beverages,9,24,10,David Wilson,194.4
+732,2025-03-04,South,Seattle,Retail,Household,11,16,5,David Wilson,167.2
+139,2025-03-04,Midwest,Phoenix,Wholesale,Dairy,13,54,20,Michael Brown,561.6
+513,2025-03-06,Northeast,Seattle,Wholesale,Dairy,12,36,5,Michael Brown,410.4
+95,2025-03-06,Northeast,New York,Retail,Household,12,31,0,Emily Johnson,372.0
+724,2025-03-06,Northeast,Chicago,Retail,Household,3,46,5,Sarah Davis,131.1
+159,2025-03-07,Midwest,Atlanta,Retail,Dairy,12,19,20,David Wilson,182.4
+785,2025-03-07,South,Seattle,Retail,Dairy,6,52,15,John Miller,265.2
+921,2025-03-08,South,Dallas,Wholesale,Dairy,11,16,5,Sarah Davis,167.2
+299,2025-03-09,West,Los Angeles,Wholesale,Snacks,2,7,15,Emily Johnson,11.9
+920,2025-03-09,Midwest,San Francisco,Wholesale,Snacks,10,26,5,Sarah Davis,247.0
+470,2025-03-10,South,San Francisco,Retail,Snacks,6,55,20,Sarah Davis,264.0
+579,2025-03-10,Northeast,Phoenix,Wholesale,Household,3,21,0,John Miller,63.0
+459,2025-03-10,West,Los Angeles,Retail,Snacks,11,30,0,David Wilson,330.0
+814,2025-03-10,Northeast,Boston,Wholesale,Beverages,8,42,0,David Wilson,336.0
+628,2025-03-11,West,San Francisco,Retail,Snacks,14,16,10,Emily Johnson,201.6
+947,2025-03-11,Northeast,San Francisco,Retail,Dairy,6,46,10,David Wilson,248.4
+765,2025-03-13,West,Atlanta,Retail,Household,4,8,0,Michael Brown,32.0
+5,2025-03-13,Northeast,San Francisco,Wholesale,Dairy,14,20,15,Michael Brown,238.0
+859,2025-03-14,West,Dallas,Wholesale,Beverages,9,16,0,David Wilson,144.0
+603,2025-03-15,Northeast,Houston,Wholesale,Household,11,53,10,John Miller,524.7
+282,2025-03-16,West,Houston,Retail,Dairy,5,3,5,Emily Johnson,14.25
+786,2025-03-16,South,Seattle,Retail,Household,10,58,10,Sarah Davis,522.0
+536,2025-03-16,South,Dallas,Wholesale,Beverages,6,52,20,Emily Johnson,249.6
+968,2025-03-16,West,Seattle,Retail,Dairy,9,34,0,Michael Brown,306.0
+601,2025-03-17,Northeast,Dallas,Wholesale,Beverages,2,58,0,Emily Johnson,116.0
+463,2025-03-17,South,Seattle,Retail,Household,3,38,25,David Wilson,85.5
+571,2025-03-17,Midwest,Los Angeles,Retail,Household,11,22,0,Emily Johnson,242.0
+856,2025-03-19,Northeast,San Francisco,Retail,Beverages,6,37,15,Michael Brown,188.7
+755,2025-03-19,Northeast,New York,Retail,Dairy,4,8,15,John Miller,27.2
+888,2025-03-19,South,New York,Wholesale,Beverages,4,41,20,John Miller,131.2
+664,2025-03-21,Midwest,Seattle,Retail,Beverages,9,24,5,David Wilson,205.2
+61,2025-03-22,Northeast,Phoenix,Retail,Household,7,32,15,Michael Brown,190.4
+104,2025-03-22,Midwest,Los Angeles,Wholesale,Dairy,2,57,5,Emily Johnson,108.3
+806,2025-03-22,South,Phoenix,Retail,Dairy,14,26,5,David Wilson,345.8
+204,2025-03-22,Midwest,Boston,Retail,Beverages,13,43,5,John Miller,531.05
+711,2025-03-23,Northeast,Dallas,Retail,Snacks,6,13,10,John Miller,70.2
+932,2025-03-24,South,Boston,Retail,Beverages,3,13,5,Emily Johnson,37.05
+752,2025-03-24,Midwest,Seattle,Retail,Beverages,13,46,0,Sarah Davis,598.0
+563,2025-03-25,South,Los Angeles,Wholesale,Dairy,3,56,5,Emily Johnson,159.6
+754,2025-03-26,Midwest,Dallas,Retail,Household,2,26,20,David Wilson,41.6
+466,2025-03-27,West,Atlanta,Retail,Household,5,17,0,John Miller,85.0
+157,2025-03-27,Northeast,Boston,Retail,Dairy,5,5,15,David Wilson,21.25
+912,2025-03-27,Midwest,Phoenix,Wholesale,Beverages,9,16,20,Michael Brown,115.2
+12,2025-03-29,Midwest,Boston,Retail,Household,14,59,20,Sarah Davis,660.8
+454,2025-03-30,Midwest,Los Angeles,Wholesale,Snacks,2,5,20,David Wilson,8.0
+49,2025-03-30,West,Los Angeles,Wholesale,Beverages,5,18,15,Sarah Davis,76.5
+692,2025-03-31,Northeast,Chicago,Retail,Beverages,4,36,10,John Miller,129.6
+527,2025-03-31,South,Dallas,Retail,Beverages,11,22,5,David Wilson,229.9
+993,2025-03-31,South,Houston,Wholesale,Dairy,4,16,20,Emily Johnson,51.2
+530,2025-03-31,South,San Francisco,Retail,Beverages,7,28,10,David Wilson,176.4
+634,2025-04-01,West,Seattle,Retail,Household,8,4,10,John Miller,28.8
+844,2025-04-02,South,Phoenix,Retail,Household,7,56,5,Michael Brown,372.4
+389,2025-04-02,West,Seattle,Retail,Household,13,9,0,Michael Brown,117.0
+436,2025-04-02,Northeast,New York,Retail,Household,14,39,5,Sarah Davis,518.7
+57,2025-04-02,Midwest,Seattle,Retail,Dairy,5,15,5,Sarah Davis,71.25
+529,2025-04-03,West,New York,Retail,Dairy,7,23,0,Michael Brown,161.0
+837,2025-04-03,Northeast,New York,Retail,Dairy,13,36,15,John Miller,397.8
+973,2025-04-04,West,Dallas,Retail,Household,11,30,10,Sarah Davis,297.0
+472,2025-04-04,West,Houston,Retail,Household,3,32,0,David Wilson,96.0
+954,2025-04-05,South,Houston,Wholesale,Snacks,13,52,15,John Miller,574.6
+343,2025-04-05,South,Atlanta,Wholesale,Beverages,9,48,5,Sarah Davis,410.4
+828,2025-04-05,South,Chicago,Retail,Household,14,36,5,Sarah Davis,478.8
+520,2025-04-05,South,Dallas,Retail,Dairy,6,54,5,John Miller,307.8
+764,2025-04-05,Midwest,New York,Wholesale,Beverages,3,10,0,David Wilson,30.0
+193,2025-04-06,West,New York,Wholesale,Household,5,14,5,Sarah Davis,66.5
+494,2025-04-06,Midwest,Houston,Retail,Beverages,12,37,20,Michael Brown,355.2
+547,2025-04-06,Northeast,Atlanta,Retail,Beverages,8,8,0,Emily Johnson,64.0
+144,2025-04-06,West,Dallas,Retail,Snacks,11,4,5,Sarah Davis,41.8
+450,2025-04-06,West,New York,Wholesale,Household,10,15,10,David Wilson,135.0
+234,2025-04-07,South,Seattle,Wholesale,Household,13,5,5,David Wilson,61.75
+321,2025-04-07,Midwest,New York,Wholesale,Beverages,5,33,5,Emily Johnson,156.75
+230,2025-04-08,South,Phoenix,Retail,Beverages,9,22,5,David Wilson,188.1
+793,2025-04-08,Northeast,Seattle,Retail,Household,12,34,20,Emily Johnson,326.4
+738,2025-04-08,Midwest,Los Angeles,Retail,Snacks,2,45,10,David Wilson,81.0
+336,2025-04-09,Midwest,New York,Retail,Beverages,6,29,10,John Miller,156.6
+289,2025-04-09,Northeast,Chicago,Wholesale,Dairy,12,33,0,Michael Brown,396.0
+344,2025-04-09,Midwest,Chicago,Wholesale,Snacks,11,38,15,David Wilson,355.3
+257,2025-04-09,South,Houston,Retail,Dairy,2,22,20,Michael Brown,35.2
+545,2025-04-09,West,Houston,Wholesale,Beverages,7,23,15,John Miller,136.85
+272,2025-04-09,West,Atlanta,Retail,Beverages,7,26,10,John Miller,163.8
+120,2025-04-09,South,San Francisco,Retail,Beverages,9,56,5,Michael Brown,478.8
+740,2025-04-09,Midwest,Dallas,Retail,Snacks,12,21,5,Sarah Davis,239.4
+580,2025-04-09,South,Chicago,Retail,Snacks,5,48,10,Emily Johnson,216.0
+478,2025-04-10,Northeast,Seattle,Retail,Beverages,11,19,5,Michael Brown,198.55
+488,2025-04-10,Northeast,Boston,Wholesale,Beverages,9,17,5,David Wilson,145.35
+13,2025-04-10,South,Los Angeles,Wholesale,Dairy,11,39,5,Sarah Davis,407.55
+569,2025-04-10,Midwest,Phoenix,Retail,Dairy,7,32,15,Sarah Davis,190.4
+510,2025-04-11,West,Houston,Retail,Beverages,10,19,10,Emily Johnson,171.0
+202,2025-04-11,Northeast,Dallas,Wholesale,Snacks,3,10,0,Emily Johnson,30.0
+934,2025-04-11,West,Los Angeles,Retail,Dairy,14,13,5,David Wilson,172.9
+126,2025-04-11,West,New York,Retail,Dairy,13,19,5,Emily Johnson,234.65
+411,2025-04-11,West,Atlanta,Retail,Household,8,21,5,John Miller,159.6
+417,2025-04-13,Northeast,Atlanta,Retail,Beverages,8,30,10,Michael Brown,216.0
+787,2025-04-13,South,Phoenix,Retail,Household,10,54,5,Sarah Davis,513.0
+8,2025-04-13,West,Phoenix,Retail,Snacks,4,5,10,Emily Johnson,18.0
+1,2025-04-13,South,Houston,Retail,Dairy,8,23,25,Sarah Davis,138.0
+369,2025-04-14,South,Boston,Wholesale,Household,7,47,5,Emily Johnson,312.55
+284,2025-04-14,Northeast,Houston,Retail,Snacks,8,50,5,David Wilson,380.0
+532,2025-04-15,Northeast,Phoenix,Retail,Snacks,9,49,0,Emily Johnson,441.0
+739,2025-04-15,Northeast,New York,Retail,Snacks,4,14,5,John Miller,53.2
+66,2025-04-16,Midwest,Los Angeles,Wholesale,Snacks,3,55,5,Emily Johnson,156.75
+429,2025-04-16,South,Phoenix,Wholesale,Beverages,2,27,20,John Miller,43.2
+804,2025-04-16,South,Houston,Retail,Household,8,58,15,Emily Johnson,394.4
+868,2025-04-17,Northeast,Boston,Wholesale,Household,2,34,5,John Miller,64.6
+4,2025-04-17,Northeast,Los Angeles,Retail,Beverages,13,51,5,Michael Brown,629.85
+166,2025-04-18,Midwest,Los Angeles,Wholesale,Household,13,11,5,Sarah Davis,135.85
+415,2025-04-18,Midwest,Chicago,Retail,Dairy,7,48,15,John Miller,285.6
+587,2025-04-19,Northeast,Boston,Retail,Beverages,13,59,0,David Wilson,767.0
+923,2025-04-19,Midwest,Los Angeles,Retail,Snacks,2,41,0,Sarah Davis,82.0
+925,2025-04-21,Northeast,New York,Retail,Beverages,10,30,0,David Wilson,300.0
+823,2025-04-21,South,Chicago,Wholesale,Beverages,10,28,5,Emily Johnson,266.0
+927,2025-04-21,Northeast,New York,Retail,Beverages,6,28,0,John Miller,168.0
+897,2025-04-21,South,New York,Wholesale,Beverages,14,38,5,Michael Brown,505.4
+929,2025-04-21,Northeast,Houston,Wholesale,Snacks,6,20,10,Sarah Davis,108.0
+288,2025-04-22,South,Houston,Wholesale,Beverages,9,47,15,Sarah Davis,359.55
+779,2025-04-22,West,Boston,Wholesale,Dairy,8,8,15,John Miller,54.4
+948,2025-04-22,West,Houston,Retail,Dairy,14,7,10,Emily Johnson,88.2
+262,2025-04-22,Midwest,Chicago,Wholesale,Beverages,9,47,0,Michael Brown,423.0
+203,2025-04-23,Northeast,Dallas,Retail,Household,11,21,0,Emily Johnson,231.0
+877,2025-04-23,Northeast,San Francisco,Retail,Snacks,3,30,0,John Miller,90.0
+201,2025-04-23,Northeast,San Francisco,Wholesale,Snacks,9,34,0,Michael Brown,306.0
+283,2025-04-23,Northeast,Boston,Retail,Snacks,13,8,0,John Miller,104.0
+206,2025-04-23,West,Los Angeles,Retail,Dairy,9,6,0,Emily Johnson,54.0
+989,2025-04-23,Midwest,New York,Retail,Household,13,52,5,Sarah Davis,642.2
+196,2025-04-23,Northeast,Phoenix,Retail,Snacks,9,6,5,John Miller,51.3
+535,2025-04-24,Midwest,Dallas,Wholesale,Household,4,46,0,Sarah Davis,184.0
+362,2025-04-24,West,New York,Wholesale,Beverages,11,30,10,John Miller,297.0
+531,2025-04-25,West,Seattle,Wholesale,Snacks,13,9,10,Michael Brown,105.3
+346,2025-04-26,Midwest,Chicago,Retail,Household,4,54,15,Sarah Davis,183.6
+281,2025-04-26,South,Dallas,Wholesale,Snacks,2,26,15,Michael Brown,44.2
+178,2025-04-26,Midwest,Atlanta,Wholesale,Dairy,3,41,15,John Miller,104.55
+654,2025-04-27,Midwest,San Francisco,Wholesale,Beverages,3,6,15,David Wilson,15.3
+440,2025-04-27,Midwest,Atlanta,Retail,Snacks,4,33,10,David Wilson,118.8
+770,2025-04-28,West,Phoenix,Wholesale,Snacks,13,4,10,Michael Brown,46.8
+983,2025-04-28,Midwest,New York,Retail,Household,14,46,0,David Wilson,644.0
+972,2025-04-28,West,Houston,Retail,Household,14,30,5,Michael Brown,399.0
+452,2025-04-28,West,Phoenix,Retail,Dairy,8,7,0,David Wilson,56.0
+906,2025-04-29,South,Atlanta,Wholesale,Snacks,11,17,5,Sarah Davis,177.65
+722,2025-04-29,South,Houston,Retail,Dairy,13,42,5,David Wilson,518.7
+279,2025-04-30,South,Phoenix,Retail,Household,9,44,10,Michael Brown,356.4
+433,2025-04-30,Northeast,San Francisco,Retail,Household,2,18,0,Michael Brown,36.0
+177,2025-05-01,Midwest,Seattle,Wholesale,Beverages,13,21,0,John Miller,273.0
+863,2025-05-01,West,Chicago,Retail,Snacks,5,40,5,Emily Johnson,190.0
+592,2025-05-02,Northeast,Chicago,Retail,Household,10,40,15,John Miller,340.0
+446,2025-05-02,West,Los Angeles,Retail,Beverages,5,7,5,Emily Johnson,33.25
+689,2025-05-02,West,Phoenix,Wholesale,Household,13,38,5,John Miller,469.3
+9,2025-05-02,South,Chicago,Retail,Dairy,5,19,5,Michael Brown,90.25
+840,2025-05-02,South,New York,Retail,Dairy,10,29,5,John Miller,275.5
+612,2025-05-02,West,Dallas,Wholesale,Beverages,11,22,0,Emily Johnson,242.0
+225,2025-05-03,South,Seattle,Retail,Dairy,12,59,10,John Miller,637.2
+236,2025-05-04,South,Atlanta,Wholesale,Household,14,8,5,Sarah Davis,106.4
+428,2025-05-04,South,Los Angeles,Wholesale,Household,4,20,10,Sarah Davis,72.0
+400,2025-05-05,South,Los Angeles,Wholesale,Snacks,14,58,5,David Wilson,771.4
+644,2025-05-06,Midwest,San Francisco,Retail,Snacks,14,18,15,David Wilson,214.2
+913,2025-05-06,South,Atlanta,Wholesale,Beverages,5,6,25,Sarah Davis,22.5
+451,2025-05-06,Midwest,Atlanta,Retail,Household,11,47,15,Sarah Davis,439.45
+214,2025-05-06,South,Dallas,Retail,Household,9,13,10,David Wilson,105.3
+639,2025-05-06,Northeast,Boston,Retail,Beverages,6,16,5,Sarah Davis,91.2
+819,2025-05-06,Northeast,Los Angeles,Retail,Snacks,12,25,5,Emily Johnson,285.0
+366,2025-05-07,Midwest,Dallas,Retail,Household,3,5,0,David Wilson,15.0
+443,2025-05-07,Midwest,Dallas,Retail,Household,12,45,5,John Miller,513.0
+883,2025-05-07,Midwest,Houston,Wholesale,Snacks,7,29,20,Michael Brown,162.4
+352,2025-05-08,South,Atlanta,Retail,Dairy,10,41,5,Michael Brown,389.5
+249,2025-05-08,West,Atlanta,Retail,Dairy,5,14,5,John Miller,66.5
+305,2025-05-08,West,Seattle,Retail,Snacks,9,3,0,David Wilson,27.0
+171,2025-05-08,South,New York,Wholesale,Snacks,10,42,25,John Miller,315.0
+253,2025-05-09,Northeast,Boston,Wholesale,Snacks,12,46,20,Sarah Davis,441.6
+100,2025-05-09,West,Atlanta,Retail,Dairy,11,18,5,Michael Brown,188.1
+444,2025-05-09,Midwest,New York,Retail,Beverages,6,45,10,Sarah Davis,243.0
+208,2025-05-10,South,Phoenix,Retail,Household,5,24,15,David Wilson,102.0
+215,2025-05-10,Midwest,Phoenix,Retail,Dairy,10,9,0,David Wilson,90.0
+276,2025-05-11,South,Dallas,Retail,Snacks,13,22,20,Emily Johnson,228.8
+16,2025-05-11,West,Boston,Retail,Household,12,37,5,Sarah Davis,421.8
+42,2025-05-11,South,San Francisco,Retail,Snacks,5,14,5,John Miller,66.5
+127,2025-05-11,South,Phoenix,Wholesale,Household,4,56,25,Emily Johnson,168.0
+626,2025-05-12,South,New York,Retail,Dairy,13,30,10,John Miller,351.0
+807,2025-05-13,Midwest,Chicago,Retail,Beverages,13,48,10,Sarah Davis,561.6
+745,2025-05-13,West,New York,Wholesale,Dairy,7,3,20,John Miller,16.8
+593,2025-05-13,Midwest,New York,Retail,Dairy,6,57,10,John Miller,307.8
+850,2025-05-13,Midwest,Dallas,Retail,Snacks,14,44,20,John Miller,492.8
+981,2025-05-13,South,San Francisco,Retail,Snacks,8,35,15,Sarah Davis,238.0
+655,2025-05-14,South,Boston,Wholesale,Dairy,10,46,20,John Miller,368.0
+971,2025-05-14,South,Phoenix,Wholesale,Dairy,8,31,15,John Miller,210.8
+163,2025-05-14,South,Phoenix,Retail,Household,11,38,25,John Miller,313.5
+111,2025-05-15,West,Seattle,Retail,Dairy,8,27,0,Sarah Davis,216.0
+303,2025-05-15,West,Chicago,Wholesale,Household,5,29,15,Sarah Davis,123.25
+44,2025-05-15,South,San Francisco,Retail,Household,8,40,20,Emily Johnson,256.0
+618,2025-05-16,Midwest,Houston,Retail,Snacks,12,45,10,Emily Johnson,486.0
+693,2025-05-16,Northeast,New York,Retail,Beverages,9,52,10,Emily Johnson,421.2
+101,2025-05-16,Midwest,Seattle,Retail,Beverages,3,45,0,Sarah Davis,135.0
+957,2025-05-17,Midwest,Chicago,Retail,Beverages,13,10,15,Emily Johnson,110.5
+183,2025-05-17,Northeast,Houston,Retail,Household,9,24,0,Emily Johnson,216.0
+809,2025-05-18,Midwest,Houston,Retail,Dairy,9,59,20,David Wilson,424.8
+103,2025-05-19,Midwest,San Francisco,Wholesale,Beverages,2,46,0,Michael Brown,92.0
+998,2025-05-19,Northeast,Dallas,Retail,Household,7,32,10,David Wilson,201.6
+267,2025-05-20,Midwest,Houston,Wholesale,Household,6,22,15,Emily Johnson,112.2
+990,2025-05-20,West,Chicago,Wholesale,Household,11,25,0,John Miller,275.0
+641,2025-05-21,South,Seattle,Retail,Snacks,14,48,15,Michael Brown,571.2
+608,2025-05-21,West,Chicago,Retail,Household,6,14,0,David Wilson,84.0
+994,2025-05-22,Northeast,Dallas,Retail,Household,11,9,0,John Miller,99.0
+387,2025-05-22,Midwest,Boston,Retail,Household,5,23,5,Sarah Davis,109.25
+388,2025-05-23,Northeast,Houston,Retail,Dairy,10,6,5,Emily Johnson,57.0
+677,2025-05-23,South,Seattle,Wholesale,Household,8,48,15,John Miller,326.4
+148,2025-05-23,West,Boston,Wholesale,Household,9,26,0,John Miller,234.0
+681,2025-05-24,Northeast,Boston,Retail,Snacks,12,40,15,Michael Brown,408.0
+426,2025-05-24,Midwest,Boston,Wholesale,Dairy,7,59,20,David Wilson,330.4
+578,2025-05-24,West,New York,Retail,Snacks,12,16,10,Michael Brown,172.8
+584,2025-05-24,Northeast,Chicago,Retail,Snacks,9,7,10,David Wilson,56.7
+260,2025-05-24,Midwest,Dallas,Retail,Beverages,7,53,20,Sarah Davis,296.8
+465,2025-05-24,Northeast,Dallas,Wholesale,Beverages,12,40,5,David Wilson,456.0
+233,2025-05-24,West,Houston,Retail,Beverages,7,25,15,Michael Brown,148.75
+432,2025-05-25,South,Boston,Retail,Dairy,13,20,15,John Miller,221.0
+703,2025-05-25,Northeast,Seattle,Retail,Beverages,4,9,5,Sarah Davis,34.2
+753,2025-05-25,West,New York,Wholesale,Snacks,12,17,5,John Miller,193.8
+916,2025-05-25,Midwest,Phoenix,Retail,Dairy,5,32,15,Sarah Davis,136.0
+622,2025-05-25,Northeast,Boston,Wholesale,Beverages,13,30,0,Emily Johnson,390.0
+599,2025-05-26,Midwest,Seattle,Wholesale,Dairy,4,20,20,David Wilson,64.0
+924,2025-05-26,West,Boston,Retail,Household,4,7,5,Michael Brown,26.6
+725,2025-05-26,West,Dallas,Wholesale,Dairy,10,19,0,David Wilson,190.0
+431,2025-05-27,Midwest,Atlanta,Retail,Snacks,4,59,5,John Miller,224.2
+273,2025-05-27,Midwest,Phoenix,Retail,Snacks,3,8,0,Emily Johnson,24.0
+493,2025-05-27,South,Atlanta,Retail,Household,12,30,5,Michael Brown,342.0
+244,2025-05-27,West,Boston,Retail,Dairy,13,32,10,Emily Johnson,374.4
+671,2025-05-27,West,Phoenix,Retail,Snacks,2,4,10,John Miller,7.2
+325,2025-05-27,West,Houston,Retail,Beverages,7,26,10,John Miller,163.8
+245,2025-05-28,Northeast,Houston,Wholesale,Household,3,45,15,John Miller,114.75
+241,2025-05-28,South,San Francisco,Retail,Household,2,36,10,Michael Brown,64.8
+646,2025-05-28,South,Boston,Wholesale,Dairy,10,38,5,John Miller,361.0
+663,2025-05-29,Midwest,Houston,Retail,Beverages,12,6,0,David Wilson,72.0
+401,2025-05-30,Northeast,Seattle,Retail,Snacks,10,51,0,David Wilson,510.0
+944,2025-05-30,Midwest,New York,Retail,Beverages,6,50,10,David Wilson,270.0
+17,2025-05-30,West,San Francisco,Retail,Household,8,16,0,Sarah Davis,128.0
+255,2025-05-31,South,Phoenix,Retail,Household,6,53,10,David Wilson,286.2
+365,2025-05-31,South,Houston,Wholesale,Household,7,32,15,David Wilson,190.4
+549,2025-05-31,West,Phoenix,Retail,Dairy,7,16,0,Emily Johnson,112.0
+825,2025-05-31,South,Boston,Retail,Dairy,11,22,20,John Miller,193.6
+583,2025-05-31,Midwest,Boston,Retail,Dairy,14,53,0,Emily Johnson,742.0
+548,2025-06-01,Northeast,San Francisco,Wholesale,Household,10,22,0,John Miller,220.0
+190,2025-06-01,Northeast,Atlanta,Wholesale,Snacks,13,54,0,Sarah Davis,702.0
+505,2025-06-01,South,Seattle,Wholesale,Dairy,6,28,5,John Miller,159.6
+15,2025-06-01,South,Seattle,Retail,Dairy,6,18,10,Michael Brown,97.2
+955,2025-06-01,Northeast,Chicago,Retail,Household,6,40,10,David Wilson,216.0
+277,2025-06-01,Midwest,Seattle,Wholesale,Snacks,12,46,15,Emily Johnson,469.2
+290,2025-06-02,West,Seattle,Retail,Snacks,14,17,0,Emily Johnson,238.0
+396,2025-06-02,Northeast,Los Angeles,Retail,Household,6,36,15,Sarah Davis,183.6
+767,2025-06-03,West,Boston,Wholesale,Beverages,7,10,15,Emily Johnson,59.5
+891,2025-06-03,Midwest,Phoenix,Retail,Beverages,13,27,0,Emily Johnson,351.0
+464,2025-06-03,Midwest,Seattle,Retail,Household,7,34,20,David Wilson,190.4
+367,2025-06-04,Northeast,Boston,Wholesale,Dairy,12,40,5,Sarah Davis,456.0
+836,2025-06-04,Northeast,Los Angeles,Wholesale,Dairy,2,46,10,Michael Brown,82.8
+687,2025-06-05,West,Phoenix,Wholesale,Household,3,23,5,Sarah Davis,65.55
+92,2025-06-06,Midwest,Seattle,Retail,Snacks,12,11,20,Michael Brown,105.6
+310,2025-06-07,South,Chicago,Retail,Beverages,13,51,10,Michael Brown,596.7
+430,2025-06-07,South,Houston,Retail,Beverages,5,42,15,John Miller,178.5
+333,2025-06-07,Northeast,Atlanta,Retail,Dairy,7,42,10,Michael Brown,264.6
+659,2025-06-09,South,Houston,Wholesale,Beverages,6,17,5,David Wilson,96.9
+192,2025-06-09,West,San Francisco,Wholesale,Beverages,13,32,0,Sarah Davis,416.0
+269,2025-06-09,Midwest,Seattle,Wholesale,Snacks,14,58,10,Sarah Davis,730.8
+838,2025-06-09,Midwest,Boston,Retail,Dairy,10,46,0,David Wilson,460.0
+503,2025-06-09,Northeast,Phoenix,Wholesale,Snacks,12,45,20,John Miller,432.0
+153,2025-06-09,Northeast,New York,Retail,Snacks,7,34,10,Sarah Davis,214.2
+219,2025-06-09,West,Dallas,Wholesale,Household,5,32,0,Michael Brown,160.0
+349,2025-06-10,West,Houston,Retail,Dairy,12,17,0,Michael Brown,204.0
+298,2025-06-10,Northeast,Los Angeles,Retail,Dairy,6,55,0,John Miller,330.0
+280,2025-06-10,Midwest,Atlanta,Wholesale,Snacks,8,10,5,Sarah Davis,76.0
+24,2025-06-10,Midwest,San Francisco,Wholesale,Beverages,3,29,0,David Wilson,87.0
+769,2025-06-11,West,Seattle,Wholesale,Household,8,9,20,David Wilson,57.6
+72,2025-06-11,West,Phoenix,Wholesale,Household,5,23,15,Emily Johnson,97.75
+295,2025-06-12,South,Houston,Retail,Dairy,4,16,5,Michael Brown,60.8
+594,2025-06-12,Midwest,Houston,Retail,Snacks,8,58,0,Sarah Davis,464.0
+507,2025-06-12,Midwest,Seattle,Retail,Snacks,8,50,15,Michael Brown,340.0
+105,2025-06-12,South,Seattle,Retail,Household,12,37,15,John Miller,377.4
+540,2025-06-13,Northeast,New York,Wholesale,Snacks,11,22,5,Emily Johnson,229.9
+691,2025-06-13,Northeast,Phoenix,Wholesale,Snacks,13,11,0,Emily Johnson,143.0
+669,2025-06-13,Northeast,Houston,Retail,Household,13,16,20,Emily Johnson,166.4
+750,2025-06-14,Midwest,Chicago,Wholesale,Beverages,13,17,0,David Wilson,221.0
+616,2025-06-14,Midwest,Phoenix,Wholesale,Dairy,8,20,5,Michael Brown,152.0
+185,2025-06-14,West,Chicago,Wholesale,Household,12,39,0,Sarah Davis,468.0
+800,2025-06-15,West,Los Angeles,Retail,Snacks,2,3,20,Emily Johnson,4.8
+47,2025-06-16,South,Phoenix,Wholesale,Snacks,7,28,5,David Wilson,186.2
+633,2025-06-16,Northeast,Phoenix,Retail,Dairy,9,15,0,Michael Brown,135.0
+609,2025-06-17,South,Houston,Wholesale,Household,11,12,10,David Wilson,118.8
+514,2025-06-17,West,San Francisco,Wholesale,Dairy,3,19,20,Sarah Davis,45.6
+297,2025-06-18,West,Seattle,Retail,Dairy,11,38,5,David Wilson,397.1
+407,2025-06-19,South,Atlanta,Wholesale,Snacks,7,49,25,Michael Brown,257.25
+160,2025-06-19,Northeast,San Francisco,Wholesale,Dairy,12,48,10,David Wilson,518.4
+845,2025-06-19,West,New York,Retail,Dairy,12,30,5,Emily Johnson,342.0
+32,2025-06-19,West,San Francisco,Wholesale,Dairy,8,22,10,David Wilson,158.4
+374,2025-06-19,Northeast,Phoenix,Retail,Beverages,13,57,5,Michael Brown,703.95
+610,2025-06-19,West,Atlanta,Retail,Household,6,23,10,John Miller,124.2
+149,2025-06-20,South,Boston,Retail,Beverages,10,28,5,Sarah Davis,266.0
+189,2025-06-21,Northeast,Chicago,Retail,Dairy,14,20,15,David Wilson,238.0
+217,2025-06-21,South,Seattle,Retail,Dairy,14,6,15,Sarah Davis,71.4
+121,2025-06-21,West,New York,Wholesale,Beverages,3,12,10,Sarah Davis,32.4
+331,2025-06-21,Northeast,Boston,Retail,Dairy,13,59,0,David Wilson,767.0
+658,2025-06-22,South,Chicago,Retail,Household,2,19,25,Michael Brown,28.5
+383,2025-06-22,South,Dallas,Wholesale,Beverages,8,18,15,Michael Brown,122.4
+758,2025-06-22,Midwest,Houston,Retail,Household,5,23,0,Sarah Davis,115.0
+640,2025-06-22,Northeast,Seattle,Retail,Household,4,30,0,David Wilson,120.0
+979,2025-06-22,Northeast,Phoenix,Wholesale,Dairy,5,44,20,Emily Johnson,176.0
+660,2025-06-22,Midwest,Seattle,Retail,Dairy,13,27,10,David Wilson,315.9
+607,2025-06-23,Midwest,San Francisco,Wholesale,Dairy,8,20,15,Michael Brown,136.0
+360,2025-06-23,Midwest,Los Angeles,Wholesale,Snacks,12,48,5,David Wilson,547.2
+36,2025-06-24,West,Dallas,Wholesale,Household,7,32,0,Sarah Davis,224.0
+307,2025-06-25,Midwest,Dallas,Retail,Dairy,4,53,5,Emily Johnson,201.4
+372,2025-06-25,Northeast,Boston,Wholesale,Household,2,11,20,John Miller,17.6
+728,2025-06-26,West,Los Angeles,Wholesale,Dairy,4,12,5,Sarah Davis,45.6
+737,2025-06-26,South,Boston,Retail,Household,10,38,15,John Miller,323.0
+544,2025-06-26,West,Los Angeles,Wholesale,Dairy,13,37,10,Sarah Davis,432.9
+568,2025-06-26,South,Boston,Retail,Household,13,50,5,Emily Johnson,617.5
+506,2025-06-27,West,Atlanta,Retail,Household,2,30,0,Sarah Davis,60.0
+696,2025-06-27,West,Boston,Retail,Snacks,9,16,5,Sarah Davis,136.8
+138,2025-06-28,South,Atlanta,Wholesale,Snacks,7,19,10,Michael Brown,119.7
+509,2025-06-28,South,Boston,Retail,Household,8,21,20,John Miller,134.4
+880,2025-06-29,South,Seattle,Wholesale,Dairy,8,51,25,Michael Brown,306.0
+490,2025-06-29,Midwest,Chicago,Retail,Beverages,5,29,0,David Wilson,145.0
+936,2025-06-29,Northeast,Phoenix,Retail,Snacks,11,17,0,Emily Johnson,187.0
+195,2025-06-29,Midwest,Los Angeles,Wholesale,Snacks,8,59,15,Michael Brown,401.2
+406,2025-06-29,Northeast,Atlanta,Retail,Snacks,5,10,15,Sarah Davis,42.5
+342,2025-06-30,West,Chicago,Retail,Household,5,16,15,Emily Johnson,68.0
+588,2025-06-30,South,San Francisco,Retail,Snacks,7,30,5,Sarah Davis,199.5
+632,2025-07-01,Midwest,Houston,Retail,Dairy,9,30,0,Sarah Davis,270.0
+554,2025-07-02,Northeast,Boston,Retail,Snacks,2,17,0,Sarah Davis,34.0
+826,2025-07-02,South,Boston,Retail,Household,9,32,15,Michael Brown,244.8
+831,2025-07-03,South,Phoenix,Retail,Beverages,5,46,25,Sarah Davis,172.5
+224,2025-07-03,West,Phoenix,Wholesale,Household,14,26,15,David Wilson,309.4
+810,2025-07-03,West,New York,Wholesale,Snacks,4,7,20,Emily Johnson,22.4
+467,2025-07-04,West,Chicago,Retail,Beverages,2,14,15,Emily Johnson,23.8
+694,2025-07-05,South,Phoenix,Retail,Snacks,12,23,15,David Wilson,234.6
+397,2025-07-05,Northeast,New York,Wholesale,Dairy,6,45,15,Michael Brown,229.5
+590,2025-07-05,Northeast,New York,Retail,Dairy,10,12,5,Sarah Davis,114.0
+155,2025-07-06,Northeast,Houston,Retail,Beverages,7,53,0,David Wilson,371.0
+566,2025-07-06,Northeast,Boston,Retail,Beverages,12,30,10,Emily Johnson,324.0
+205,2025-07-06,South,Dallas,Wholesale,Beverages,7,29,20,John Miller,162.4
+237,2025-07-06,Northeast,Los Angeles,Retail,Beverages,8,8,20,Michael Brown,51.2
+893,2025-07-06,Northeast,Los Angeles,Retail,Household,8,20,0,John Miller,160.0
+345,2025-07-07,West,Atlanta,Retail,Snacks,11,27,0,John Miller,297.0
+90,2025-07-07,West,Boston,Wholesale,Snacks,8,34,5,Emily Johnson,258.4
+33,2025-07-07,Midwest,Houston,Retail,Snacks,3,20,5,David Wilson,57.0
+457,2025-07-08,Northeast,Los Angeles,Wholesale,Household,10,36,5,John Miller,342.0
+6,2025-07-08,West,Chicago,Wholesale,Dairy,6,19,0,Emily Johnson,114.0
+550,2025-07-09,Midwest,Boston,Retail,Beverages,6,51,0,John Miller,306.0
+80,2025-07-09,Midwest,Los Angeles,Retail,Beverages,6,13,0,Michael Brown,78.0
+399,2025-07-09,West,Dallas,Wholesale,Household,10,3,0,Emily Johnson,30.0
+651,2025-07-09,West,Chicago,Wholesale,Dairy,8,36,15,Michael Brown,244.8
+174,2025-07-09,South,San Francisco,Retail,Dairy,3,31,5,Sarah Davis,88.35
+35,2025-07-09,South,Houston,Retail,Beverages,12,23,5,Michael Brown,262.2
+69,2025-07-10,South,New York,Retail,Snacks,10,25,10,Emily Johnson,225.0
+347,2025-07-10,Northeast,Phoenix,Retail,Snacks,11,5,5,David Wilson,52.25
+652,2025-07-10,Midwest,Boston,Retail,Snacks,8,40,5,John Miller,304.0
+905,2025-07-11,Northeast,Houston,Retail,Dairy,8,58,10,David Wilson,417.6
+22,2025-07-11,Northeast,Boston,Wholesale,Household,7,23,5,Michael Brown,152.95
+542,2025-07-11,West,Phoenix,Wholesale,Beverages,11,9,5,Michael Brown,94.05
+458,2025-07-11,West,Atlanta,Retail,Household,11,7,0,Emily Johnson,77.0
+702,2025-07-11,Northeast,New York,Retail,Household,3,11,5,John Miller,31.35
+328,2025-07-11,West,Boston,Retail,Dairy,12,23,10,Michael Brown,248.4
+788,2025-07-11,Midwest,New York,Retail,Dairy,2,25,15,Emily Johnson,42.5
+293,2025-07-13,South,San Francisco,Retail,Household,4,13,20,David Wilson,41.6
+975,2025-07-13,West,Phoenix,Retail,Snacks,6,18,10,Sarah Davis,97.2
+613,2025-07-13,South,Phoenix,Wholesale,Snacks,12,10,20,Sarah Davis,96.0
+833,2025-07-14,Midwest,Dallas,Retail,Beverages,7,14,10,John Miller,88.2
+835,2025-07-14,South,Seattle,Wholesale,Household,13,56,10,David Wilson,655.2
+304,2025-07-14,Midwest,Dallas,Retail,Snacks,7,12,0,Michael Brown,84.0
+418,2025-07-15,West,Phoenix,Retail,Dairy,14,25,5,David Wilson,332.5
+533,2025-07-15,Northeast,Phoenix,Retail,Household,9,21,5,John Miller,179.55
+743,2025-07-16,Midwest,Chicago,Retail,Beverages,8,35,0,Sarah Davis,280.0
+713,2025-07-16,South,Phoenix,Wholesale,Beverages,5,7,5,Michael Brown,33.25
+231,2025-07-17,Northeast,Chicago,Retail,Household,4,11,0,David Wilson,44.0
+220,2025-07-17,Northeast,Chicago,Retail,Household,3,40,10,John Miller,108.0
+946,2025-07-17,West,Phoenix,Wholesale,Household,4,13,0,Emily Johnson,52.0
+182,2025-07-17,Midwest,Houston,Retail,Dairy,5,33,0,David Wilson,165.0
+247,2025-07-18,Northeast,Dallas,Retail,Household,14,40,0,Michael Brown,560.0
+112,2025-07-20,West,Chicago,Retail,Dairy,3,36,0,David Wilson,108.0
+704,2025-07-20,Midwest,San Francisco,Retail,Beverages,11,15,0,John Miller,165.0
+235,2025-07-20,Northeast,Chicago,Wholesale,Dairy,2,28,10,David Wilson,50.4
+73,2025-07-21,Northeast,Houston,Wholesale,Household,4,12,20,John Miller,38.4
+751,2025-07-21,South,Houston,Wholesale,Household,13,38,10,Emily Johnson,444.6
+635,2025-07-21,West,Chicago,Retail,Snacks,11,12,10,Emily Johnson,118.8
+908,2025-07-21,West,Atlanta,Wholesale,Beverages,10,23,0,Michael Brown,230.0
+223,2025-07-22,West,Boston,Retail,Dairy,8,18,10,Sarah Davis,129.6
+977,2025-07-22,Northeast,Dallas,Wholesale,Dairy,10,34,10,David Wilson,306.0
+666,2025-07-22,Northeast,Boston,Retail,Snacks,2,50,0,Emily Johnson,100.0
+474,2025-07-23,South,Houston,Wholesale,Household,2,16,10,David Wilson,28.8
+759,2025-07-24,Northeast,New York,Wholesale,Household,14,6,0,David Wilson,84.0
+818,2025-07-24,West,Atlanta,Retail,Household,7,8,15,David Wilson,47.6
+574,2025-07-25,Northeast,Atlanta,Retail,Dairy,12,7,5,Michael Brown,79.8
+60,2025-07-25,West,New York,Retail,Beverages,6,26,5,Sarah Davis,148.2
+881,2025-07-26,Northeast,New York,Retail,Snacks,4,17,10,David Wilson,61.2
+782,2025-07-26,Northeast,New York,Wholesale,Snacks,6,46,0,John Miller,276.0
+134,2025-07-26,Northeast,Chicago,Wholesale,Dairy,3,19,5,John Miller,54.15
+296,2025-07-27,Northeast,Seattle,Retail,Beverages,2,46,15,Sarah Davis,78.2
+83,2025-07-27,South,Boston,Retail,Snacks,5,33,10,Sarah Davis,148.5
+275,2025-07-27,Northeast,Phoenix,Wholesale,Household,6,11,0,John Miller,66.0
+705,2025-07-31,Midwest,Seattle,Retail,Dairy,9,19,0,Michael Brown,171.0
+918,2025-07-31,Midwest,Phoenix,Retail,Snacks,10,17,0,Michael Brown,170.0
+986,2025-07-31,West,Boston,Retail,Snacks,14,11,10,John Miller,138.6
+665,2025-08-01,Midwest,New York,Wholesale,Snacks,9,24,5,John Miller,205.2
+82,2025-08-01,South,Chicago,Wholesale,Household,12,5,20,Emily Johnson,48.0
+123,2025-08-02,South,Seattle,Wholesale,Household,12,35,20,David Wilson,336.0
+885,2025-08-02,West,Atlanta,Wholesale,Household,10,32,5,Emily Johnson,304.0
+864,2025-08-02,South,Boston,Retail,Dairy,14,22,20,Emily Johnson,246.4
+525,2025-08-03,South,Los Angeles,Wholesale,Beverages,11,25,5,John Miller,261.25
+78,2025-08-03,Midwest,Los Angeles,Retail,Household,14,26,15,Sarah Davis,309.4
+10,2025-08-03,Midwest,Los Angeles,Retail,Dairy,5,29,10,John Miller,130.5
+393,2025-08-03,Midwest,Boston,Retail,Beverages,12,16,5,John Miller,182.4
+595,2025-08-03,West,Los Angeles,Retail,Beverages,12,7,5,David Wilson,79.8
+889,2025-08-04,South,New York,Retail,Snacks,2,34,5,Emily Johnson,64.6
+118,2025-08-04,South,Seattle,Retail,Snacks,11,51,5,Michael Brown,532.95
+624,2025-08-05,Northeast,Los Angeles,Retail,Snacks,4,11,0,Emily Johnson,44.0
+733,2025-08-05,South,San Francisco,Wholesale,Beverages,7,42,10,Emily Johnson,264.6
+88,2025-08-05,South,Atlanta,Wholesale,Dairy,9,7,15,Michael Brown,53.55
+557,2025-08-05,Northeast,Atlanta,Retail,Beverages,3,19,0,Michael Brown,57.0
+564,2025-08-05,South,Dallas,Retail,Household,4,30,5,John Miller,114.0
+537,2025-08-05,West,Chicago,Wholesale,Snacks,3,16,5,Sarah Davis,45.6
+475,2025-08-06,Midwest,Houston,Wholesale,Dairy,5,20,15,Sarah Davis,85.0
+218,2025-08-06,West,Chicago,Retail,Beverages,5,9,10,Sarah Davis,40.5
+130,2025-08-06,South,Seattle,Wholesale,Beverages,2,54,25,Emily Johnson,81.0
+70,2025-08-06,West,Chicago,Retail,Beverages,11,40,15,John Miller,374.0
+857,2025-08-06,Midwest,Boston,Retail,Snacks,4,41,5,John Miller,155.8
+643,2025-08-08,West,Dallas,Retail,Snacks,8,11,5,Sarah Davis,83.6
+698,2025-08-08,Northeast,Chicago,Wholesale,Beverages,13,57,10,John Miller,666.9
+332,2025-08-08,Midwest,Houston,Wholesale,Household,10,21,5,Sarah Davis,199.5
+209,2025-08-08,South,Houston,Retail,Household,14,20,20,Sarah Davis,224.0
+967,2025-08-08,Northeast,Phoenix,Wholesale,Dairy,8,52,20,John Miller,332.8
+706,2025-08-08,South,Dallas,Retail,Household,7,7,20,John Miller,39.2
+469,2025-08-08,Northeast,New York,Retail,Dairy,13,14,10,John Miller,163.8
+596,2025-08-09,Northeast,Los Angeles,Retail,Snacks,8,50,0,Michael Brown,400.0
+776,2025-08-10,Midwest,Chicago,Wholesale,Household,14,25,10,Michael Brown,315.0
+481,2025-08-10,West,Houston,Retail,Dairy,8,14,10,Sarah Davis,100.8
+145,2025-08-10,Northeast,New York,Retail,Beverages,9,51,5,Emily Johnson,436.05
+575,2025-08-11,South,Phoenix,Wholesale,Household,11,6,10,Emily Johnson,59.4
+355,2025-08-11,West,Dallas,Wholesale,Household,4,3,5,Sarah Davis,11.4
+964,2025-08-11,South,Chicago,Retail,Dairy,9,27,5,Sarah Davis,230.85
+591,2025-08-11,South,Phoenix,Wholesale,Snacks,8,56,10,Emily Johnson,403.2
+491,2025-08-11,Northeast,Seattle,Retail,Household,3,27,0,Michael Brown,81.0
+726,2025-08-12,West,Los Angeles,Wholesale,Snacks,8,27,5,Sarah Davis,205.2
+212,2025-08-12,South,San Francisco,Retail,Snacks,14,41,25,John Miller,430.5
+551,2025-08-12,West,Chicago,Wholesale,Snacks,13,32,5,David Wilson,395.2
+684,2025-08-12,South,New York,Wholesale,Snacks,14,16,20,Emily Johnson,179.2
+987,2025-08-13,West,Atlanta,Wholesale,Beverages,11,21,10,Michael Brown,207.9
+186,2025-08-13,Northeast,New York,Wholesale,Dairy,3,26,15,David Wilson,66.3
+175,2025-08-13,Northeast,Boston,Wholesale,Household,5,58,0,Emily Johnson,290.0
+213,2025-08-13,Midwest,Seattle,Retail,Snacks,5,44,10,Emily Johnson,198.0
+939,2025-08-14,West,Chicago,Retail,Dairy,14,9,0,John Miller,126.0
+790,2025-08-14,South,San Francisco,Wholesale,Beverages,8,25,10,Michael Brown,180.0
+318,2025-08-14,Midwest,New York,Retail,Snacks,5,26,10,Michael Brown,117.0
+903,2025-08-15,Northeast,Seattle,Retail,Beverages,10,30,5,Michael Brown,285.0
+670,2025-08-15,Northeast,Boston,Retail,Beverages,10,44,0,Michael Brown,440.0
+125,2025-08-15,South,Seattle,Retail,Household,4,21,5,John Miller,79.8
+287,2025-08-15,Midwest,San Francisco,Retail,Household,7,54,0,Emily Johnson,378.0
+543,2025-08-15,West,Phoenix,Retail,Snacks,6,12,5,Sarah Davis,68.4
+701,2025-08-16,Northeast,Seattle,Wholesale,Beverages,10,52,10,Emily Johnson,468.0
+926,2025-08-16,Midwest,Houston,Retail,Household,5,30,0,David Wilson,150.0
+962,2025-08-17,South,Seattle,Retail,Dairy,3,30,5,David Wilson,85.5
+439,2025-08-17,South,Los Angeles,Retail,Snacks,10,27,5,John Miller,256.5
+942,2025-08-17,West,Chicago,Wholesale,Beverages,4,31,15,Emily Johnson,105.4
+668,2025-08-17,West,Seattle,Wholesale,Snacks,3,41,15,Sarah Davis,104.55
+783,2025-08-17,South,Seattle,Retail,Beverages,11,16,5,Emily Johnson,167.2
+312,2025-08-18,West,San Francisco,Retail,Snacks,6,16,0,Emily Johnson,96.0
+605,2025-08-18,Midwest,Seattle,Wholesale,Dairy,7,14,0,Michael Brown,98.0
+173,2025-08-19,Midwest,Los Angeles,Retail,Snacks,10,12,15,Michael Brown,102.0
+141,2025-08-19,Northeast,Dallas,Retail,Snacks,14,59,10,John Miller,743.4
+108,2025-08-19,West,New York,Wholesale,Dairy,13,28,20,John Miller,291.2
+146,2025-08-19,South,Seattle,Retail,Snacks,2,17,15,Sarah Davis,28.9
+911,2025-08-19,West,Dallas,Wholesale,Household,13,30,10,David Wilson,351.0
+337,2025-08-21,South,Dallas,Retail,Household,14,19,10,Sarah Davis,239.4
+271,2025-08-21,Midwest,Chicago,Retail,Beverages,10,34,15,John Miller,289.0
+674,2025-08-21,South,Boston,Retail,Beverages,10,20,5,David Wilson,190.0
+851,2025-08-21,West,Phoenix,Wholesale,Household,12,25,10,Emily Johnson,270.0
+179,2025-08-21,Northeast,Boston,Retail,Household,2,18,0,John Miller,36.0
+570,2025-08-21,South,Seattle,Wholesale,Beverages,6,53,5,John Miller,302.1
+194,2025-08-21,South,Boston,Wholesale,Snacks,14,20,10,David Wilson,252.0
+922,2025-08-21,Northeast,Houston,Wholesale,Dairy,5,6,0,Sarah Davis,30.0
+188,2025-08-22,Northeast,Phoenix,Retail,Household,3,41,0,Michael Brown,123.0
+597,2025-08-23,Northeast,Chicago,Wholesale,Snacks,13,50,15,Sarah Davis,552.5
+820,2025-08-23,West,Chicago,Retail,Dairy,10,7,15,John Miller,59.5
+931,2025-08-24,West,Phoenix,Retail,Beverages,3,30,0,David Wilson,90.0
+775,2025-08-24,South,Phoenix,Retail,Household,13,14,20,David Wilson,145.6
+28,2025-08-24,West,San Francisco,Wholesale,Dairy,7,30,10,Emily Johnson,189.0
+455,2025-08-25,Midwest,Dallas,Wholesale,Beverages,3,18,5,John Miller,51.3
+84,2025-08-25,South,Houston,Retail,Beverages,11,12,10,Michael Brown,118.8
+147,2025-08-25,Northeast,Seattle,Wholesale,Snacks,14,45,5,John Miller,598.5
+898,2025-08-26,Northeast,Houston,Wholesale,Beverages,14,57,0,Michael Brown,798.0
+473,2025-08-26,Midwest,Atlanta,Retail,Household,5,55,10,Sarah Davis,247.5
+309,2025-08-26,Northeast,Houston,Wholesale,Beverages,4,28,5,John Miller,106.4
+600,2025-08-27,Midwest,San Francisco,Retail,Household,8,28,15,Emily Johnson,190.4
+900,2025-08-27,West,Los Angeles,Retail,Snacks,6,15,5,John Miller,85.5
+865,2025-08-27,West,San Francisco,Retail,Beverages,9,35,10,Sarah Davis,283.5
+727,2025-08-27,Northeast,Seattle,Retail,Dairy,12,59,0,Sarah Davis,708.0
+448,2025-08-27,Midwest,Dallas,Retail,Dairy,7,36,10,Michael Brown,226.8
+232,2025-08-28,West,New York,Retail,Snacks,8,3,0,Emily Johnson,24.0
+707,2025-08-28,West,Boston,Wholesale,Beverages,9,6,20,Emily Johnson,43.2
+822,2025-08-28,West,Los Angeles,Retail,Household,14,30,10,Emily Johnson,378.0
+142,2025-08-29,Midwest,Seattle,Retail,Household,11,12,10,David Wilson,118.8
+718,2025-08-30,Northeast,Chicago,Retail,Dairy,11,25,20,David Wilson,220.0
+523,2025-08-30,South,Chicago,Wholesale,Household,2,44,5,John Miller,83.6
+52,2025-08-30,West,Dallas,Retail,Beverages,10,20,10,Sarah Davis,180.0
+642,2025-08-30,South,Atlanta,Wholesale,Dairy,9,37,25,Sarah Davis,249.75
+156,2025-08-31,Northeast,Boston,Wholesale,Dairy,10,17,5,David Wilson,161.5
+959,2025-08-31,South,Seattle,Wholesale,Beverages,10,8,10,Michael Brown,72.0
+40,2025-09-01,South,Houston,Retail,Dairy,5,11,10,Emily Johnson,49.5
+371,2025-09-03,South,Seattle,Retail,Dairy,7,27,20,David Wilson,151.2
+486,2025-09-03,West,New York,Wholesale,Beverages,9,37,15,David Wilson,283.05
+221,2025-09-04,West,San Francisco,Retail,Snacks,7,18,10,Sarah Davis,113.4
+501,2025-09-04,West,Los Angeles,Wholesale,Dairy,4,39,5,Michael Brown,148.2
+375,2025-09-04,West,Seattle,Retail,Dairy,2,7,10,John Miller,12.6
+803,2025-09-04,Northeast,New York,Wholesale,Dairy,8,42,0,David Wilson,336.0
+462,2025-09-04,Northeast,Dallas,Wholesale,Household,14,30,0,Sarah Davis,420.0
+958,2025-09-04,South,Los Angeles,Wholesale,Beverages,9,5,10,John Miller,40.5
+539,2025-09-06,West,San Francisco,Wholesale,Snacks,10,34,5,Sarah Davis,323.0
+824,2025-09-06,Northeast,Dallas,Wholesale,Beverages,6,37,10,Emily Johnson,199.8
+799,2025-09-06,South,Los Angeles,Retail,Beverages,8,13,10,Emily Johnson,93.6
+861,2025-09-06,South,Los Angeles,Wholesale,Dairy,3,55,10,Michael Brown,148.5
+768,2025-09-07,South,Boston,Wholesale,Household,14,16,10,Michael Brown,201.6
+484,2025-09-07,West,Atlanta,Wholesale,Beverages,14,4,0,John Miller,56.0
+492,2025-09-07,Midwest,New York,Wholesale,Household,5,26,5,John Miller,123.5
+719,2025-09-08,South,Houston,Retail,Dairy,8,12,15,Emily Johnson,81.6
+777,2025-09-08,West,San Francisco,Retail,Dairy,9,16,0,Emily Johnson,144.0
+79,2025-09-09,Midwest,Houston,Retail,Dairy,4,11,0,John Miller,44.0
+89,2025-09-09,South,New York,Retail,Household,2,58,5,John Miller,110.2
+629,2025-09-09,Midwest,Los Angeles,Retail,Household,14,7,20,Emily Johnson,78.4
+667,2025-09-09,Midwest,New York,Retail,Beverages,10,7,10,Sarah Davis,63.0
+259,2025-09-09,Northeast,San Francisco,Retail,Dairy,4,17,5,Emily Johnson,64.6
+242,2025-09-09,Midwest,Los Angeles,Wholesale,Dairy,10,37,15,David Wilson,314.5
+789,2025-09-09,South,Atlanta,Retail,Dairy,7,26,5,John Miller,172.9
+604,2025-09-10,South,New York,Retail,Household,14,29,25,Michael Brown,304.5
+27,2025-09-10,Northeast,Houston,Retail,Dairy,6,58,15,Michael Brown,295.8
+879,2025-09-10,Midwest,Phoenix,Wholesale,Beverages,4,37,10,Emily Johnson,133.2
+522,2025-09-10,Northeast,San Francisco,Retail,Dairy,14,34,5,David Wilson,452.2
+710,2025-09-10,West,Houston,Retail,Snacks,14,28,10,David Wilson,352.8
+348,2025-09-10,Northeast,Phoenix,Retail,Beverages,8,56,0,Michael Brown,448.0
+286,2025-09-11,South,San Francisco,Wholesale,Beverages,8,56,15,John Miller,380.8
+266,2025-09-11,South,Houston,Retail,Beverages,4,19,5,Sarah Davis,72.2
+480,2025-09-11,South,Dallas,Retail,Snacks,2,32,10,Emily Johnson,57.6
+226,2025-09-12,Northeast,Atlanta,Wholesale,Snacks,12,33,15,Michael Brown,336.6
+131,2025-09-12,Northeast,Atlanta,Retail,Dairy,7,58,0,David Wilson,406.0
+780,2025-09-12,South,San Francisco,Wholesale,Snacks,8,40,5,Michael Brown,304.0
+350,2025-09-13,Northeast,New York,Retail,Snacks,14,33,5,Emily Johnson,438.9
+712,2025-09-13,Northeast,Seattle,Wholesale,Beverages,10,19,0,John Miller,190.0
+875,2025-09-14,Northeast,Seattle,Retail,Dairy,3,15,15,Sarah Davis,38.25
+128,2025-09-14,South,Houston,Retail,Household,11,27,20,John Miller,237.6
+495,2025-09-14,Northeast,Chicago,Retail,Dairy,12,15,0,John Miller,180.0
+502,2025-09-15,Northeast,Chicago,Retail,Household,12,42,0,John Miller,504.0
+19,2025-09-15,Northeast,Boston,Retail,Snacks,14,40,20,Emily Johnson,448.0
+240,2025-09-16,Midwest,Phoenix,Wholesale,Beverages,13,47,15,Michael Brown,519.35
+180,2025-09-16,Northeast,Los Angeles,Wholesale,Dairy,4,29,0,Michael Brown,116.0
+771,2025-09-16,Midwest,New York,Wholesale,Beverages,7,12,10,John Miller,75.6
+680,2025-09-16,Midwest,Dallas,Wholesale,Beverages,6,17,0,David Wilson,102.0
+747,2025-09-16,Midwest,New York,Wholesale,Household,3,43,5,Sarah Davis,122.55
+760,2025-09-17,Midwest,Atlanta,Wholesale,Dairy,2,16,20,Michael Brown,25.6
+67,2025-09-17,West,Phoenix,Retail,Household,14,21,20,Emily Johnson,235.2
+107,2025-09-18,West,Seattle,Wholesale,Household,2,28,0,David Wilson,56.0
+419,2025-09-19,South,Seattle,Wholesale,Household,8,19,5,Michael Brown,144.4
+816,2025-09-19,Northeast,Los Angeles,Wholesale,Beverages,5,55,0,Sarah Davis,275.0
+258,2025-09-20,Northeast,Chicago,Wholesale,Snacks,13,58,5,David Wilson,716.3
+528,2025-09-21,South,New York,Retail,Beverages,14,59,15,Emily Johnson,702.1
+930,2025-09-21,South,Phoenix,Wholesale,Beverages,5,27,10,John Miller,121.5
+315,2025-09-21,Midwest,New York,Retail,Snacks,13,39,10,John Miller,456.3
+58,2025-09-21,South,San Francisco,Retail,Household,8,30,20,Emily Johnson,192.0
+412,2025-09-21,Northeast,Phoenix,Retail,Dairy,11,17,20,Michael Brown,149.6
+386,2025-09-21,South,Dallas,Retail,Snacks,14,36,5,John Miller,478.8
+572,2025-09-22,West,Dallas,Retail,Dairy,2,25,15,Sarah Davis,42.5
+53,2025-09-22,Midwest,Phoenix,Retail,Dairy,5,59,0,John Miller,295.0
+729,2025-09-24,Midwest,San Francisco,Retail,Household,4,59,15,Michael Brown,200.6
+254,2025-09-24,West,Los Angeles,Retail,Beverages,2,19,0,Emily Johnson,38.0
+773,2025-09-25,West,New York,Wholesale,Dairy,13,39,0,Emily Johnson,507.0
+114,2025-09-25,West,New York,Wholesale,Household,9,36,0,John Miller,324.0
+199,2025-09-25,Northeast,Seattle,Wholesale,Beverages,6,43,15,Michael Brown,219.3
+511,2025-09-25,South,Phoenix,Retail,Dairy,5,41,10,Emily Johnson,184.5
+553,2025-09-25,Northeast,Houston,Retail,Household,14,13,0,Emily Johnson,182.0
+427,2025-09-26,Northeast,New York,Retail,Household,14,37,20,David Wilson,414.4
+74,2025-09-27,South,San Francisco,Retail,Household,11,55,10,David Wilson,544.5
+77,2025-09-28,Northeast,Houston,Retail,Dairy,6,36,10,Sarah Davis,194.4
+409,2025-09-28,Midwest,Boston,Retail,Beverages,12,27,5,David Wilson,307.8
+3,2025-09-28,South,Dallas,Wholesale,Beverages,5,23,10,John Miller,103.5
+34,2025-09-28,South,Houston,Wholesale,Beverages,14,56,5,Sarah Davis,744.8
+685,2025-09-29,Midwest,Chicago,Wholesale,Dairy,12,56,0,Michael Brown,672.0
+456,2025-09-29,West,Boston,Retail,Beverages,2,39,0,David Wilson,78.0
+812,2025-09-30,Midwest,Atlanta,Retail,Beverages,4,55,15,Michael Brown,187.0
+368,2025-09-30,Northeast,Dallas,Retail,Beverages,4,14,15,John Miller,47.6
+910,2025-09-30,South,Los Angeles,Wholesale,Household,3,30,5,Michael Brown,85.5
+561,2025-09-30,South,Houston,Retail,Household,13,23,10,Sarah Davis,269.1
+48,2025-10-01,South,San Francisco,Wholesale,Dairy,7,22,10,Emily Johnson,138.6
+901,2025-10-01,Northeast,Phoenix,Retail,Beverages,11,52,0,Sarah Davis,572.0
+435,2025-10-02,Midwest,San Francisco,Retail,Snacks,5,30,5,Emily Johnson,142.5
+985,2025-10-02,Northeast,Houston,Wholesale,Household,10,48,0,Sarah Davis,480.0
+630,2025-10-02,South,Seattle,Wholesale,Dairy,4,56,5,Emily Johnson,212.8
+945,2025-10-04,Northeast,Phoenix,Retail,Snacks,12,54,10,Emily Johnson,583.2
+538,2025-10-04,South,Boston,Retail,Beverages,6,41,15,Michael Brown,209.1
+23,2025-10-04,Northeast,Chicago,Retail,Snacks,5,53,5,Sarah Davis,251.75
+301,2025-10-04,Northeast,Chicago,Retail,Snacks,3,28,20,David Wilson,67.2
+319,2025-10-04,West,Boston,Retail,Beverages,10,10,5,Michael Brown,95.0
+842,2025-10-04,Northeast,Atlanta,Retail,Snacks,3,27,20,Emily Johnson,64.8
+460,2025-10-05,Northeast,Chicago,Retail,Dairy,10,14,20,Sarah Davis,112.0
+556,2025-10-06,South,Los Angeles,Retail,Snacks,6,31,5,Michael Brown,176.7
+442,2025-10-06,South,San Francisco,Wholesale,Dairy,11,37,15,Sarah Davis,345.95
+499,2025-10-07,Midwest,San Francisco,Wholesale,Dairy,13,52,10,Sarah Davis,608.4
+339,2025-10-07,Northeast,New York,Wholesale,Snacks,12,26,5,Michael Brown,296.4
+228,2025-10-07,South,Seattle,Retail,Beverages,5,50,5,David Wilson,237.5
+87,2025-10-07,Midwest,Phoenix,Retail,Beverages,13,39,10,David Wilson,456.3
+361,2025-10-07,West,Chicago,Wholesale,Snacks,11,40,0,Emily Johnson,440.0
+354,2025-10-08,West,Houston,Retail,Beverages,9,38,10,Emily Johnson,307.8
+832,2025-10-08,Midwest,Los Angeles,Retail,Household,6,31,0,Emily Johnson,186.0
+860,2025-10-09,West,Atlanta,Wholesale,Household,4,27,0,Emily Johnson,108.0
+937,2025-10-09,South,San Francisco,Retail,Dairy,14,9,15,Michael Brown,107.1
+731,2025-10-09,South,New York,Retail,Dairy,6,14,25,David Wilson,63.0
+611,2025-10-10,Northeast,Boston,Wholesale,Dairy,12,43,0,Emily Johnson,516.0
+133,2025-10-10,Northeast,Houston,Wholesale,Snacks,2,54,0,Emily Johnson,108.0
+176,2025-10-10,Northeast,Boston,Retail,Household,8,6,0,John Miller,48.0
+736,2025-10-10,Northeast,Dallas,Retail,Household,9,50,5,Emily Johnson,427.5
+316,2025-10-10,West,Los Angeles,Wholesale,Household,5,23,0,John Miller,115.0
+322,2025-10-11,South,New York,Wholesale,Snacks,4,55,5,John Miller,209.0
+164,2025-10-11,South,Houston,Retail,Snacks,10,22,20,David Wilson,176.0
+573,2025-10-11,West,Chicago,Retail,Household,13,39,15,Emily Johnson,430.95
+158,2025-10-11,South,Boston,Retail,Dairy,3,38,15,Emily Johnson,96.9
+468,2025-10-12,South,Chicago,Retail,Household,2,37,15,Sarah Davis,62.9
+808,2025-10-12,South,Seattle,Wholesale,Snacks,3,14,10,Emily Johnson,37.8
+518,2025-10-12,Midwest,Atlanta,Retail,Dairy,3,21,20,Michael Brown,50.4
+560,2025-10-13,Midwest,Boston,Wholesale,Household,6,59,0,David Wilson,354.0
+717,2025-10-13,Northeast,Boston,Retail,Household,3,30,5,John Miller,85.5
+169,2025-10-13,West,Los Angeles,Wholesale,Snacks,13,24,0,John Miller,312.0
+795,2025-10-13,Midwest,San Francisco,Retail,Beverages,8,24,10,Michael Brown,172.8
+320,2025-10-13,Northeast,Dallas,Retail,Beverages,8,24,0,Sarah Davis,192.0
+761,2025-10-15,South,San Francisco,Retail,Household,6,21,10,John Miller,113.4
+363,2025-10-15,West,Seattle,Retail,Snacks,12,21,10,John Miller,226.8
+392,2025-10-15,Midwest,Atlanta,Retail,Beverages,13,41,15,Emily Johnson,453.05
+106,2025-10-16,Midwest,Dallas,Retail,Dairy,13,54,5,Emily Johnson,666.9
+943,2025-10-16,South,Atlanta,Retail,Household,10,57,20,Sarah Davis,456.0
+300,2025-10-16,South,Chicago,Retail,Dairy,2,24,20,Michael Brown,38.4
+723,2025-10-16,Northeast,Dallas,Retail,Dairy,14,12,20,Emily Johnson,134.4
+479,2025-10-16,West,Phoenix,Retail,Snacks,5,21,5,John Miller,99.75
+449,2025-10-17,West,Los Angeles,Retail,Beverages,8,24,15,John Miller,163.2
+489,2025-10-17,South,Seattle,Retail,Snacks,4,19,25,Emily Johnson,57.0
+627,2025-10-19,Northeast,Dallas,Retail,Beverages,7,49,5,David Wilson,325.85
+874,2025-10-19,West,Los Angeles,Retail,Snacks,12,37,5,Michael Brown,421.8
+997,2025-10-20,Northeast,Houston,Retail,Dairy,12,58,5,John Miller,661.2
+119,2025-10-20,Northeast,Boston,Retail,Household,12,39,10,John Miller,421.2
+227,2025-10-21,South,Atlanta,Wholesale,Beverages,6,42,5,John Miller,239.4
+902,2025-10-21,South,Seattle,Wholesale,Beverages,7,9,5,John Miller,59.85
+21,2025-10-21,West,Phoenix,Retail,Dairy,10,23,0,Emily Johnson,230.0
+791,2025-10-21,Northeast,Atlanta,Retail,Snacks,4,48,20,John Miller,153.6
+200,2025-10-22,Northeast,San Francisco,Retail,Dairy,3,38,0,Sarah Davis,114.0
+81,2025-10-23,Midwest,Seattle,Retail,Household,3,49,0,Michael Brown,147.0
+256,2025-10-25,South,Boston,Wholesale,Snacks,4,17,15,John Miller,57.8
+370,2025-10-26,South,Houston,Retail,Snacks,5,21,10,John Miller,94.5
+914,2025-10-27,South,Phoenix,Wholesale,Dairy,14,15,15,Sarah Davis,178.5
+980,2025-10-27,Midwest,Dallas,Retail,Snacks,13,20,0,John Miller,260.0
+858,2025-10-28,South,Phoenix,Retail,Household,2,38,10,David Wilson,68.4
+625,2025-10-28,West,Chicago,Wholesale,Dairy,7,25,5,Michael Brown,166.25
+94,2025-10-28,Midwest,Boston,Retail,Household,2,5,0,John Miller,10.0
+341,2025-10-29,South,Phoenix,Wholesale,Household,9,59,5,John Miller,504.45
+521,2025-10-29,West,Los Angeles,Retail,Household,8,36,15,David Wilson,244.8
+781,2025-10-30,West,Chicago,Wholesale,Dairy,7,23,5,Sarah Davis,152.95
+662,2025-10-30,Northeast,Phoenix,Retail,Snacks,11,52,10,Emily Johnson,514.8
+714,2025-10-30,Northeast,Chicago,Retail,Snacks,7,33,0,Sarah Davis,231.0
+882,2025-10-30,South,New York,Wholesale,Dairy,10,44,25,John Miller,330.0
+302,2025-10-31,South,New York,Retail,Snacks,14,31,25,Michael Brown,325.5
+274,2025-10-31,Northeast,Dallas,Retail,Household,14,7,5,Sarah Davis,93.1
+76,2025-10-31,Northeast,Atlanta,Retail,Household,10,52,0,John Miller,520.0
+324,2025-10-31,West,Houston,Wholesale,Snacks,4,32,0,Sarah Davis,128.0
+265,2025-10-31,South,Houston,Retail,Dairy,5,21,5,John Miller,99.75
+405,2025-11-01,West,Phoenix,Retail,Household,10,15,5,Sarah Davis,142.5
+675,2025-11-01,Northeast,Houston,Retail,Beverages,5,23,10,Sarah Davis,103.5
+772,2025-11-02,Midwest,Boston,Retail,Dairy,7,15,0,John Miller,105.0
+378,2025-11-02,Midwest,San Francisco,Retail,Dairy,9,38,0,Sarah Davis,342.0
+792,2025-11-02,South,Phoenix,Retail,Snacks,8,54,5,Sarah Davis,410.4
+187,2025-11-03,Midwest,Seattle,Wholesale,Dairy,10,39,15,Sarah Davis,331.5
+43,2025-11-03,Midwest,Dallas,Retail,Snacks,10,38,20,David Wilson,304.0
+248,2025-11-04,West,Atlanta,Wholesale,Snacks,12,7,15,John Miller,71.4
+798,2025-11-04,South,Houston,Retail,Beverages,3,11,5,Emily Johnson,31.35
+425,2025-11-04,Midwest,Boston,Retail,Snacks,10,6,10,John Miller,54.0
+18,2025-11-05,West,Chicago,Retail,Dairy,5,29,0,David Wilson,145.0
+68,2025-11-06,West,Houston,Wholesale,Dairy,11,36,0,Michael Brown,396.0
+294,2025-11-06,Midwest,Houston,Wholesale,Household,5,51,0,Sarah Davis,255.0
+956,2025-11-07,West,New York,Wholesale,Dairy,11,17,0,Michael Brown,187.0
+424,2025-11-07,West,Phoenix,Retail,Dairy,11,6,0,John Miller,66.0
+741,2025-11-07,West,Atlanta,Retail,Dairy,8,14,20,Sarah Davis,89.6
+716,2025-11-08,West,Houston,Retail,Household,3,14,5,Emily Johnson,39.9
+653,2025-11-08,South,Houston,Wholesale,Beverages,7,44,10,Michael Brown,277.2
+894,2025-11-08,Northeast,Houston,Wholesale,Household,3,5,10,David Wilson,13.5
+778,2025-11-09,West,San Francisco,Wholesale,Dairy,13,36,0,David Wilson,468.0
+381,2025-11-09,West,Seattle,Retail,Snacks,7,5,15,John Miller,29.75
+402,2025-11-10,West,Houston,Wholesale,Dairy,14,39,10,David Wilson,491.4
+25,2025-11-10,Midwest,New York,Wholesale,Snacks,7,20,10,Emily Johnson,126.0
+534,2025-11-10,Northeast,Houston,Retail,Snacks,7,22,5,Sarah Davis,146.3
+191,2025-11-11,Midwest,San Francisco,Retail,Household,6,53,0,Michael Brown,318.0
+735,2025-11-11,Northeast,Dallas,Retail,Household,13,59,15,Emily Johnson,651.95
+940,2025-11-11,West,Atlanta,Retail,Snacks,10,39,0,David Wilson,390.0
+380,2025-11-12,West,San Francisco,Wholesale,Snacks,5,34,5,Sarah Davis,161.5
+695,2025-11-12,South,Boston,Wholesale,Dairy,10,10,5,John Miller,95.0
+50,2025-11-12,Midwest,Phoenix,Wholesale,Dairy,10,10,0,Emily Johnson,100.0
+647,2025-11-13,South,Chicago,Retail,Beverages,13,48,15,John Miller,530.4
+661,2025-11-13,West,Dallas,Wholesale,Snacks,2,14,0,John Miller,28.0
+846,2025-11-13,South,Boston,Retail,Household,10,27,5,Emily Johnson,256.5
+323,2025-11-13,West,Dallas,Wholesale,Dairy,7,31,20,Sarah Davis,173.6
+952,2025-11-14,South,Chicago,Retail,Household,9,39,10,Sarah Davis,315.9
+441,2025-11-14,West,Boston,Retail,Household,7,26,0,David Wilson,182.0
+184,2025-11-14,Northeast,Phoenix,Retail,Beverages,7,25,10,John Miller,157.5
+197,2025-11-14,South,Phoenix,Wholesale,Snacks,6,8,15,Emily Johnson,40.8
+434,2025-11-15,Northeast,Dallas,Wholesale,Beverages,4,33,20,Emily Johnson,105.6
+869,2025-11-15,Midwest,Dallas,Retail,Household,5,48,5,John Miller,228.0
+938,2025-11-16,Northeast,Chicago,Retail,Beverages,11,15,5,Michael Brown,156.75
+995,2025-11-16,South,San Francisco,Retail,Snacks,4,58,20,David Wilson,185.6
+41,2025-11-16,South,Chicago,Retail,Household,5,31,15,Emily Johnson,131.75
+620,2025-11-17,Northeast,New York,Wholesale,Beverages,4,47,0,Emily Johnson,188.0
+385,2025-11-17,West,Boston,Retail,Snacks,8,7,0,David Wilson,56.0
+391,2025-11-18,West,Los Angeles,Retail,Beverages,7,14,10,David Wilson,88.2
+966,2025-11-18,West,San Francisco,Retail,Dairy,8,17,5,David Wilson,129.2
+358,2025-11-19,South,San Francisco,Retail,Dairy,13,57,5,John Miller,703.95
+512,2025-11-19,South,Phoenix,Wholesale,Beverages,7,6,20,Emily Johnson,33.6
+351,2025-11-19,West,Phoenix,Retail,Household,13,7,20,David Wilson,72.8
+984,2025-11-20,West,Seattle,Wholesale,Snacks,3,20,5,John Miller,57.0
+222,2025-11-20,South,San Francisco,Retail,Beverages,4,26,10,Emily Johnson,93.6
+487,2025-11-21,Midwest,Los Angeles,Retail,Beverages,14,11,10,John Miller,138.6
+496,2025-11-21,West,Dallas,Retail,Dairy,10,9,15,Michael Brown,76.5
+229,2025-11-21,Midwest,New York,Wholesale,Household,6,37,0,David Wilson,222.0
+982,2025-11-22,West,Phoenix,Retail,Household,2,39,15,Michael Brown,66.3
+848,2025-11-22,Midwest,Seattle,Wholesale,Snacks,7,35,10,Sarah Davis,220.5
+238,2025-11-22,West,Boston,Retail,Snacks,14,15,10,John Miller,189.0
+408,2025-11-22,West,Seattle,Retail,Dairy,5,25,0,David Wilson,125.0
+97,2025-11-23,West,New York,Retail,Beverages,6,29,15,Emily Johnson,147.9
+623,2025-11-23,West,Chicago,Wholesale,Beverages,14,12,0,Emily Johnson,168.0
+154,2025-11-23,West,Houston,Retail,Dairy,14,39,5,John Miller,518.7
+113,2025-11-24,Northeast,Phoenix,Retail,Dairy,11,9,0,Sarah Davis,99.0
+46,2025-11-25,West,Dallas,Retail,Beverages,4,7,10,Sarah Davis,25.2
+811,2025-11-26,West,New York,Retail,Beverages,9,14,10,Michael Brown,113.4
+683,2025-11-26,West,San Francisco,Wholesale,Snacks,3,15,0,John Miller,45.0
+515,2025-11-26,Midwest,Boston,Retail,Beverages,13,13,20,Sarah Davis,135.2
+11,2025-11-27,West,Atlanta,Wholesale,Household,4,33,20,Emily Johnson,105.6
+951,2025-11-27,Northeast,Seattle,Retail,Beverages,5,36,0,David Wilson,180.0
+598,2025-11-27,Northeast,Seattle,Retail,Snacks,13,40,20,David Wilson,416.0
+170,2025-11-27,West,Atlanta,Retail,Beverages,11,20,15,John Miller,187.0
+1000,2025-11-29,South,Seattle,Retail,Beverages,6,9,10,David Wilson,48.6
+970,2025-12-01,West,New York,Wholesale,Beverages,6,37,0,Michael Brown,222.0
+976,2025-12-01,South,Los Angeles,Retail,Beverages,8,20,25,John Miller,120.0
+796,2025-12-01,Midwest,San Francisco,Retail,Beverages,14,28,5,Emily Johnson,372.4
+801,2025-12-01,South,Los Angeles,Retail,Snacks,6,30,10,Sarah Davis,162.0
+500,2025-12-02,Northeast,Boston,Wholesale,Beverages,14,47,0,David Wilson,658.0
+827,2025-12-02,South,San Francisco,Retail,Beverages,14,56,5,Emily Johnson,744.8
+526,2025-12-03,Midwest,Seattle,Retail,Snacks,8,25,20,John Miller,160.0
+872,2025-12-03,Northeast,Seattle,Retail,Snacks,2,27,10,Michael Brown,48.6
+292,2025-12-04,Midwest,Atlanta,Retail,Beverages,11,18,20,Sarah Davis,158.4
+794,2025-12-04,Northeast,Boston,Retail,Dairy,12,43,0,Emily Johnson,516.0
+251,2025-12-04,Midwest,Dallas,Retail,Snacks,9,27,0,Sarah Davis,243.0
+85,2025-12-04,Northeast,Dallas,Retail,Household,3,58,5,Michael Brown,165.3
+577,2025-12-05,Northeast,Atlanta,Retail,Beverages,5,46,0,David Wilson,230.0
+617,2025-12-05,South,Phoenix,Retail,Household,14,11,5,Sarah Davis,146.3
+285,2025-12-06,Midwest,New York,Retail,Household,12,53,0,Emily Johnson,636.0
+504,2025-12-06,South,Chicago,Wholesale,Dairy,5,49,25,David Wilson,183.75
+56,2025-12-06,West,Atlanta,Wholesale,Beverages,6,19,15,Michael Brown,96.9
+813,2025-12-06,West,Chicago,Retail,Household,11,37,10,Michael Brown,366.3
+168,2025-12-06,Northeast,Phoenix,Wholesale,Dairy,10,59,10,Emily Johnson,531.0
+730,2025-12-07,West,Boston,Retail,Household,8,12,20,Emily Johnson,76.8
+476,2025-12-07,South,Dallas,Retail,Household,12,45,15,Michael Brown,459.0
+784,2025-12-07,Northeast,Chicago,Wholesale,Household,9,18,10,David Wilson,145.8
+404,2025-12-08,West,San Francisco,Retail,Dairy,7,16,15,David Wilson,95.2
+565,2025-12-08,Northeast,Chicago,Retail,Dairy,8,29,5,Emily Johnson,220.4
+394,2025-12-08,South,Phoenix,Wholesale,Snacks,4,10,10,Michael Brown,36.0
+364,2025-12-08,South,Boston,Wholesale,Snacks,12,20,10,Sarah Davis,216.0
+621,2025-12-08,Northeast,San Francisco,Retail,Household,11,30,15,Sarah Davis,280.5
+734,2025-12-08,Midwest,Dallas,Wholesale,Household,14,48,0,Emily Johnson,672.0
+211,2025-12-09,Midwest,Chicago,Retail,Household,7,45,5,Sarah Davis,299.25
+99,2025-12-10,Midwest,Los Angeles,Retail,Household,8,48,5,Michael Brown,364.8
+20,2025-12-10,Midwest,Chicago,Retail,Dairy,5,11,20,Michael Brown,44.0
+29,2025-12-11,Northeast,Seattle,Retail,Snacks,5,55,5,Emily Johnson,261.25
+96,2025-12-11,West,Los Angeles,Retail,Snacks,8,14,5,Michael Brown,106.4
+261,2025-12-12,Northeast,Seattle,Wholesale,Snacks,8,41,10,John Miller,295.2
+54,2025-12-12,South,Atlanta,Wholesale,Household,3,21,25,Sarah Davis,47.25
+243,2025-12-12,Midwest,Boston,Retail,Beverages,7,32,5,David Wilson,212.8
+136,2025-12-12,South,Chicago,Retail,Dairy,7,10,5,Sarah Davis,66.5
+438,2025-12-12,South,Seattle,Retail,Household,9,7,10,John Miller,56.7
+853,2025-12-12,West,Los Angeles,Retail,Household,9,4,0,John Miller,36.0
+636,2025-12-12,Midwest,Chicago,Retail,Household,5,48,15,John Miller,204.0
+797,2025-12-13,Midwest,New York,Retail,Beverages,12,27,20,Emily Johnson,259.2
+650,2025-12-14,Northeast,Atlanta,Retail,Snacks,10,32,10,Emily Johnson,288.0
+690,2025-12-14,South,Houston,Retail,Beverages,10,44,10,David Wilson,396.0
+172,2025-12-14,South,Seattle,Wholesale,Household,11,18,5,Michael Brown,188.1
+763,2025-12-14,Northeast,Phoenix,Retail,Household,4,38,10,Emily Johnson,136.8
+340,2025-12-15,South,Chicago,Retail,Dairy,4,7,20,Michael Brown,22.4
+239,2025-12-15,Northeast,Atlanta,Retail,Beverages,8,31,0,Michael Brown,248.0
+291,2025-12-15,West,Phoenix,Wholesale,Dairy,7,21,10,John Miller,132.3
+461,2025-12-15,West,San Francisco,Retail,Household,8,7,5,Sarah Davis,53.2
+2,2025-12-15,Northeast,Los Angeles,Retail,Household,14,26,0,Sarah Davis,364.0
+953,2025-12-16,South,Los Angeles,Retail,Household,14,19,15,John Miller,226.1
+867,2025-12-16,Midwest,Atlanta,Retail,Snacks,4,12,0,John Miller,48.0
+421,2025-12-16,West,Chicago,Retail,Household,13,34,10,Michael Brown,397.8
+950,2025-12-16,Midwest,New York,Retail,Household,14,32,15,John Miller,380.8
+75,2025-12-17,West,Phoenix,Wholesale,Household,4,16,0,Emily Johnson,64.0
+744,2025-12-17,South,Atlanta,Retail,Snacks,9,55,10,Emily Johnson,445.5
+140,2025-12-18,Midwest,Phoenix,Wholesale,Beverages,10,40,15,Michael Brown,340.0
+834,2025-12-18,South,Chicago,Retail,Household,6,50,20,Michael Brown,240.0
+246,2025-12-18,Northeast,Houston,Retail,Dairy,6,59,5,Sarah Davis,336.3
+390,2025-12-20,Northeast,Houston,Retail,Beverages,11,54,0,David Wilson,594.0
+558,2025-12-21,South,Phoenix,Retail,Snacks,5,32,10,Michael Brown,144.0
+878,2025-12-21,Midwest,Houston,Retail,Dairy,14,40,10,Michael Brown,504.0
+423,2025-12-21,West,Boston,Wholesale,Beverages,10,21,0,Emily Johnson,210.0
+377,2025-12-21,South,Dallas,Retail,Dairy,9,19,20,Michael Brown,136.8
+999,2025-12-22,West,New York,Wholesale,Beverages,5,27,5,Sarah Davis,128.25
+541,2025-12-23,West,San Francisco,Retail,Household,2,14,0,Emily Johnson,28.0
+699,2025-12-23,Midwest,New York,Retail,Dairy,2,47,0,David Wilson,94.0
+482,2025-12-23,South,Boston,Wholesale,Beverages,3,50,10,Emily Johnson,135.0
+686,2025-12-24,South,Los Angeles,Wholesale,Snacks,13,58,25,John Miller,565.5
+746,2025-12-24,Northeast,Boston,Retail,Household,4,16,0,Emily Johnson,64.0
+132,2025-12-25,South,Houston,Retail,Snacks,3,18,25,Sarah Davis,40.5
+181,2025-12-25,Northeast,Dallas,Retail,Snacks,13,34,0,Sarah Davis,442.0
+359,2025-12-26,South,San Francisco,Wholesale,Household,8,20,25,Sarah Davis,120.0
+252,2025-12-26,Midwest,New York,Wholesale,Dairy,12,54,5,Michael Brown,615.6
+122,2025-12-26,Northeast,Chicago,Retail,Household,12,52,10,John Miller,561.6
+63,2025-12-26,Northeast,Los Angeles,Retail,Household,5,15,5,Michael Brown,71.25
+14,2025-12-26,South,Los Angeles,Retail,Snacks,6,59,5,John Miller,336.3
+830,2025-12-26,South,Dallas,Retail,Snacks,8,52,15,David Wilson,353.6
+648,2025-12-27,South,Chicago,Wholesale,Beverages,14,30,5,Emily Johnson,399.0
+559,2025-12-27,Northeast,Chicago,Retail,Dairy,8,41,5,Michael Brown,311.6
+899,2025-12-29,Northeast,New York,Retail,Beverages,7,12,10,Sarah Davis,75.6
+631,2025-12-30,Midwest,Dallas,Retail,Beverages,4,8,0,John Miller,32.0
+38,2025-12-30,West,Los Angeles,Retail,Dairy,5,34,0,John Miller,170.0
+941,2025-12-31,South,Los Angeles,Wholesale,Dairy,9,17,10,David Wilson,137.7
+720,2025-12-31,West,San Francisco,Retail,Dairy,14,17,15,Sarah Davis,202.3
+619,2025-12-31,Northeast,Houston,Wholesale,Snacks,4,18,5,Michael Brown,68.4
+313,2025-12-31,West,New York,Wholesale,Beverages,12,18,0,Emily Johnson,216.0
+420,2025-12-31,Northeast,New York,Retail,Beverages,3,40,5,Emily Johnson,114.0
+890,2025-12-31,Midwest,Dallas,Retail,Household,3,23,15,Emily Johnson,58.65
